@@ -60,14 +60,6 @@ The dashboard covers four main sections:
 
 ---
 
-## 📁 What's Inside
-
-📁 Folder structure:
-
-
-
----
-
 ## 🚀 How to Use
 
 1. Clone or download the repository.
