@@ -63,3 +63,37 @@ The dashboard covers four main sections:
 ## 📁 What's Inside
 
 📁 Folder structure:
+
+
+
+---
+
+## 🚀 How to Use
+
+1. Clone or download the repository.
+2. Open the `.pbix` file in **Power BI Desktop**.
+3. Explore the dashboards and interact with filters/slicers.
+4. Review the DAX measures and visual configurations.
+
+---
+
+## 📌 Notes
+
+- Mock data was generated based on realistic assumptions.
+- The dashboard supports **desktop views**.
+- Future improvements could include real-time data integration and AI-based forecasting.
+
+---
+
+## 🙌 Let's Connect
+
+If you're hiring or looking for a passionate junior data analyst with a background in Power BI and construction analytics, feel free to reach out!
+
+📧 Email: hakimovazulayho04@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/hakimovazulayxo
+💻 GitHub: https://github.com/zulayxohakimova
+
+---
+
+*"Hard work beats talent when talent doesn’t work hard."*  
+Effort and persistence make the biggest difference.
