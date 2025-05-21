@@ -1,0 +1,2281 @@
+MilestoneID,ProjectID,Name,PlannedCompletion,ActualCompletion,Status
+1,1,Foundation,2024-11-25,2024-12-04,Delayed
+2,1,Framing,2025-04-07,2025-04-26,Delayed
+3,1,Plumbing,2025-08-18,2025-09-01,Delayed
+4,1,Electrical,2025-12-29,2026-01-05,Delayed
+5,1,Finishing,2026-05-11,2026-05-09,Delayed
+6,1,Foundation,2026-09-21,,Completed
+7,1,Framing,2027-02-01,2027-02-06,Delayed
+8,2,Foundation,2023-04-02,2023-04-03,On Track
+9,2,Framing,2023-06-11,2023-06-19,Completed
+10,2,Plumbing,2023-08-20,,Completed
+11,3,Foundation,2020-07-30,2020-08-07,Delayed
+12,3,Framing,2020-09-02,2020-08-27,On Track
+13,3,Plumbing,2020-10-06,2020-10-08,On Track
+14,3,Electrical,2020-11-09,2020-11-14,Completed
+15,3,Finishing,2020-12-13,2020-12-13,Delayed
+16,3,Foundation,2021-01-16,2021-02-05,Completed
+17,4,Foundation,2022-09-02,2022-09-06,Delayed
+18,4,Framing,2023-02-05,2023-01-31,Completed
+19,4,Plumbing,2023-07-11,2023-07-16,Completed
+20,4,Electrical,2023-12-14,2023-12-24,Completed
+21,4,Finishing,2024-05-18,2024-05-09,On Track
+22,5,Foundation,2021-09-13,2021-09-04,Delayed
+23,5,Framing,2021-12-09,2021-12-03,On Track
+24,5,Plumbing,2022-03-06,2022-02-26,On Track
+25,5,Electrical,2022-06-01,2022-05-28,Delayed
+26,5,Finishing,2022-08-27,2022-08-18,Completed
+27,5,Foundation,2022-11-22,2022-12-11,Delayed
+28,5,Framing,2023-02-17,2023-02-28,On Track
+29,6,Foundation,2022-09-02,2022-09-09,On Track
+30,6,Framing,2022-10-19,2022-10-25,Completed
+31,6,Plumbing,2022-12-05,,Completed
+32,6,Electrical,2023-01-21,2023-02-01,On Track
+33,6,Finishing,2023-03-09,2023-03-02,Completed
+34,6,Foundation,2023-04-25,2023-04-19,Completed
+35,7,Foundation,2024-10-11,2024-10-09,Delayed
+36,7,Framing,2025-02-21,2025-03-08,Delayed
+37,7,Plumbing,2025-07-04,2025-07-24,Completed
+38,7,Electrical,2025-11-14,2025-11-11,On Track
+39,7,Finishing,2026-03-27,2026-03-26,On Track
+40,7,Foundation,2026-08-07,2026-08-17,Completed
+41,8,Foundation,2021-09-10,2021-09-02,Delayed
+42,8,Framing,2022-02-10,2022-02-17,Completed
+43,9,Foundation,2023-06-07,2023-06-19,Delayed
+44,9,Framing,2024-02-02,2024-02-19,Delayed
+45,10,Foundation,2024-10-16,2024-11-02,Completed
+46,10,Framing,2024-11-26,,On Track
+47,10,Plumbing,2025-01-06,2025-01-24,Completed
+48,10,Electrical,2025-02-16,2025-02-21,On Track
+49,10,Finishing,2025-03-29,2025-04-09,Completed
+50,10,Foundation,2025-05-09,2025-05-17,On Track
+51,11,Foundation,2022-10-19,2022-10-09,Completed
+52,11,Framing,2023-07-09,2023-07-03,Completed
+53,11,Plumbing,2024-03-28,2024-04-13,On Track
+54,11,Electrical,2024-12-16,2024-12-15,On Track
+55,12,Foundation,2022-06-21,2022-07-07,Completed
+56,12,Framing,2022-10-06,2022-10-24,Delayed
+57,12,Plumbing,2023-01-21,2023-02-04,Completed
+58,12,Electrical,2023-05-08,,Completed
+59,12,Finishing,2023-08-23,,Delayed
+60,12,Foundation,2023-12-08,2023-12-05,Delayed
+61,13,Foundation,2022-09-27,2022-10-11,Completed
+62,13,Framing,2022-12-26,2022-12-28,Delayed
+63,13,Plumbing,2023-03-26,2023-03-16,Delayed
+64,13,Electrical,2023-06-24,2023-06-29,Completed
+65,13,Finishing,2023-09-22,2023-10-12,On Track
+66,13,Foundation,2023-12-21,2024-01-01,Delayed
+67,14,Foundation,2020-04-21,2020-05-05,On Track
+68,14,Framing,2021-06-10,,Delayed
+69,15,Foundation,2024-11-04,2024-11-06,Completed
+70,15,Framing,2025-05-12,2025-05-06,Delayed
+71,15,Plumbing,2025-11-17,2025-11-18,On Track
+72,16,Foundation,2024-09-26,2024-09-30,Delayed
+73,16,Framing,2025-01-07,2024-12-31,On Track
+74,16,Plumbing,2025-04-20,2025-04-23,Completed
+75,16,Electrical,2025-08-01,2025-08-07,On Track
+76,17,Foundation,2020-10-21,2020-10-22,Completed
+77,17,Framing,2021-02-21,2021-03-02,Delayed
+78,18,Foundation,2021-11-25,2021-11-24,On Track
+79,18,Framing,2022-11-05,2022-11-18,On Track
+80,19,Foundation,2024-03-08,2024-03-14,Delayed
+81,19,Framing,2024-04-30,2024-04-25,Delayed
+82,19,Plumbing,2024-06-22,2024-06-20,On Track
+83,19,Electrical,2024-08-14,2024-08-09,Delayed
+84,19,Finishing,2024-10-06,2024-10-05,On Track
+85,19,Foundation,2024-11-28,2024-11-29,On Track
+86,20,Foundation,2021-12-11,2021-12-21,Completed
+87,20,Framing,2022-03-05,2022-03-01,On Track
+88,20,Plumbing,2022-05-28,,Delayed
+89,20,Electrical,2022-08-20,2022-08-20,Delayed
+90,20,Finishing,2022-11-12,2022-11-27,Delayed
+91,20,Foundation,2023-02-04,2023-02-04,Completed
+92,20,Framing,2023-04-29,2023-05-08,Delayed
+93,21,Foundation,2022-04-12,2022-05-02,Delayed
+94,21,Framing,2022-05-27,2022-05-27,Delayed
+95,21,Plumbing,2022-07-11,2022-07-31,Completed
+96,21,Electrical,2022-08-25,2022-09-06,Completed
+97,21,Finishing,2022-10-09,2022-10-24,Delayed
+98,21,Foundation,2022-11-23,2022-11-21,Delayed
+99,22,Foundation,2023-11-20,2023-11-13,On Track
+100,22,Framing,2024-02-13,2024-02-21,On Track
+101,22,Plumbing,2024-05-08,2024-05-19,On Track
+102,22,Electrical,2024-08-01,2024-08-21,Completed
+103,23,Foundation,2022-06-13,2022-06-17,Completed
+104,23,Framing,2022-12-20,2022-12-12,Delayed
+105,23,Plumbing,2023-06-28,2023-07-09,Completed
+106,24,Foundation,2021-11-04,2021-11-01,On Track
+107,24,Framing,2022-08-24,2022-09-05,Delayed
+108,24,Plumbing,2023-06-13,2023-06-05,Completed
+109,24,Electrical,2024-04-01,2024-04-06,Completed
+110,25,Foundation,2023-03-26,2023-04-14,Completed
+111,25,Framing,2023-09-23,2023-09-26,Delayed
+112,25,Plumbing,2024-03-22,2024-04-03,Completed
+113,25,Electrical,2024-09-19,2024-09-28,On Track
+114,25,Finishing,2025-03-19,2025-03-12,Completed
+115,25,Foundation,2025-09-16,2025-09-27,Completed
+116,26,Foundation,2024-03-18,2024-03-09,Completed
+117,26,Framing,2024-06-06,2024-06-17,Delayed
+118,26,Plumbing,2024-08-25,2024-09-14,On Track
+119,26,Electrical,2024-11-13,,On Track
+120,26,Finishing,2025-02-01,2025-02-07,Completed
+121,26,Foundation,2025-04-22,2025-04-30,On Track
+122,27,Foundation,2020-05-22,2020-05-23,Completed
+123,27,Framing,2020-12-23,2020-12-31,On Track
+124,27,Plumbing,2021-07-26,2021-07-27,Delayed
+125,27,Electrical,2022-02-26,2022-02-19,On Track
+126,27,Finishing,2022-09-29,2022-09-22,Completed
+127,28,Foundation,2023-08-23,2023-08-24,Delayed
+128,28,Framing,2024-08-14,2024-08-29,Delayed
+129,28,Plumbing,2025-08-06,2025-08-07,Delayed
+130,29,Foundation,2024-11-19,2024-12-01,On Track
+131,29,Framing,2025-04-05,,Completed
+132,29,Plumbing,2025-08-20,,Delayed
+133,29,Electrical,2026-01-04,2026-01-14,On Track
+134,29,Finishing,2026-05-21,2026-06-09,On Track
+135,29,Foundation,2026-10-05,2026-10-11,On Track
+136,29,Framing,2027-02-19,2027-02-19,Delayed
+137,30,Foundation,2025-02-04,2025-02-19,On Track
+138,30,Framing,2025-04-11,2025-04-06,Delayed
+139,30,Plumbing,2025-06-16,,Completed
+140,31,Foundation,2023-11-04,2023-11-08,Delayed
+141,31,Framing,2024-01-22,2024-01-12,On Track
+142,31,Plumbing,2024-04-10,2024-04-08,On Track
+143,32,Foundation,2022-04-23,2022-04-16,Completed
+144,32,Framing,2022-08-13,2022-08-08,On Track
+145,32,Plumbing,2022-12-03,2022-12-07,Completed
+146,32,Electrical,2023-03-25,2023-04-11,Completed
+147,32,Finishing,2023-07-15,2023-07-15,Completed
+148,32,Foundation,2023-11-04,2023-11-06,Delayed
+149,33,Foundation,2020-10-08,2020-10-25,On Track
+150,33,Framing,2021-03-23,2021-04-08,Delayed
+151,33,Plumbing,2021-09-05,2021-09-24,On Track
+152,33,Electrical,2022-02-18,2022-03-01,On Track
+153,34,Foundation,2020-04-17,2020-04-16,Delayed
+154,34,Framing,2021-04-09,2021-04-21,Delayed
+155,34,Plumbing,2022-04-01,2022-04-04,Completed
+156,35,Foundation,2023-04-25,2023-04-28,Completed
+157,35,Framing,2023-10-19,2023-10-26,Completed
+158,35,Plumbing,2024-04-13,2024-05-02,Completed
+159,35,Electrical,2024-10-07,2024-10-02,On Track
+160,35,Finishing,2025-04-02,2025-03-28,Delayed
+161,36,Foundation,2025-02-10,2025-02-01,On Track
+162,36,Framing,2025-06-30,2025-07-05,Delayed
+163,36,Plumbing,2025-11-17,2025-12-07,Completed
+164,36,Electrical,2026-04-06,2026-04-11,Delayed
+165,36,Finishing,2026-08-24,2026-08-27,Delayed
+166,36,Foundation,2027-01-11,2027-01-16,Completed
+167,37,Foundation,2023-04-30,2023-05-15,Delayed
+168,37,Framing,2023-11-21,2023-11-12,Completed
+169,38,Foundation,2024-01-31,2024-01-26,Completed
+170,38,Framing,2024-08-13,2024-08-26,Delayed
+171,38,Plumbing,2025-02-24,2025-03-03,Completed
+172,38,Electrical,2025-09-07,2025-08-31,Completed
+173,39,Foundation,2021-01-26,2021-02-02,On Track
+174,39,Framing,2021-03-29,2021-04-12,Completed
+175,39,Plumbing,2021-05-30,2021-05-26,On Track
+176,39,Electrical,2021-07-31,2021-08-13,On Track
+177,40,Foundation,2024-01-03,2024-01-20,Delayed
+178,40,Framing,2024-04-17,2024-04-15,On Track
+179,40,Plumbing,2024-07-31,2024-08-04,On Track
+180,40,Electrical,2024-11-13,2024-11-27,On Track
+181,41,Foundation,2021-05-26,2021-06-03,Completed
+182,41,Framing,2021-07-10,2021-07-19,On Track
+183,41,Plumbing,2021-08-24,2021-09-02,On Track
+184,41,Electrical,2021-10-08,2021-10-24,On Track
+185,41,Finishing,2021-11-22,2021-11-30,Delayed
+186,41,Foundation,2022-01-06,2022-01-15,Delayed
+187,41,Framing,2022-02-20,2022-03-04,Completed
+188,42,Foundation,2020-09-11,2020-10-01,Completed
+189,42,Framing,2021-05-20,,Delayed
+190,42,Plumbing,2022-01-26,,Delayed
+191,42,Electrical,2022-10-04,2022-10-21,Completed
+192,43,Foundation,2022-08-18,2022-08-15,Delayed
+193,43,Framing,2023-03-13,2023-03-29,Completed
+194,43,Plumbing,2023-10-06,2023-10-08,Completed
+195,44,Foundation,2022-06-17,2022-06-15,Delayed
+196,44,Framing,2022-07-20,,On Track
+197,44,Plumbing,2022-08-22,2022-08-24,Delayed
+198,44,Electrical,2022-09-24,2022-10-06,Delayed
+199,44,Finishing,2022-10-27,2022-10-31,Delayed
+200,44,Foundation,2022-11-29,,Completed
+201,44,Framing,2023-01-01,2022-12-24,Delayed
+202,45,Foundation,2022-01-02,2022-01-13,On Track
+203,45,Framing,2022-05-14,2022-05-29,On Track
+204,45,Plumbing,2022-09-23,2022-10-13,On Track
+205,45,Electrical,2023-02-02,2023-02-07,Delayed
+206,45,Finishing,2023-06-14,2023-06-14,On Track
+207,45,Foundation,2023-10-24,2023-11-01,Delayed
+208,45,Framing,2024-03-04,2024-03-22,On Track
+209,46,Foundation,2024-03-03,2024-02-25,Delayed
+210,46,Framing,2024-09-06,2024-08-27,On Track
+211,47,Foundation,2024-01-18,,Delayed
+212,47,Framing,2024-04-20,2024-04-16,On Track
+213,47,Plumbing,2024-07-22,2024-08-09,On Track
+214,47,Electrical,2024-10-23,2024-11-09,Delayed
+215,47,Finishing,2025-01-24,2025-01-16,Delayed
+216,48,Foundation,2023-10-09,2023-10-10,Completed
+217,48,Framing,2024-02-26,,Completed
+218,49,Foundation,2023-03-03,2023-03-16,On Track
+219,49,Framing,2023-05-29,2023-06-01,Completed
+220,49,Plumbing,2023-08-24,,Delayed
+221,49,Electrical,2023-11-19,2023-11-11,On Track
+222,50,Foundation,2023-12-21,2024-01-01,On Track
+223,50,Framing,2024-06-22,2024-07-04,On Track
+224,50,Plumbing,2024-12-23,2025-01-09,On Track
+225,50,Electrical,2025-06-25,,Delayed
+226,50,Finishing,2025-12-26,2025-12-18,On Track
+227,50,Foundation,2026-06-28,2026-06-21,Delayed
+228,51,Foundation,2022-11-10,2022-11-12,On Track
+229,51,Framing,2023-04-09,2023-04-19,On Track
+230,51,Plumbing,2023-09-06,2023-08-29,On Track
+231,52,Foundation,2023-11-25,2023-12-05,Delayed
+232,52,Framing,2024-04-21,2024-05-04,Completed
+233,52,Plumbing,2024-09-16,2024-09-10,Completed
+234,52,Electrical,2025-02-11,2025-02-22,On Track
+235,52,Finishing,2025-07-09,2025-07-01,On Track
+236,52,Foundation,2025-12-04,2025-12-18,Completed
+237,53,Foundation,2022-02-24,2022-02-25,Delayed
+238,53,Framing,2022-05-31,2022-06-15,Delayed
+239,53,Plumbing,2022-09-04,,Completed
+240,53,Electrical,2022-12-09,2022-12-18,Completed
+241,53,Finishing,2023-03-15,2023-03-14,Completed
+242,54,Foundation,2024-08-06,2024-08-23,Delayed
+243,54,Framing,2025-11-21,2025-11-17,Completed
+244,55,Foundation,2022-06-30,2022-07-13,Completed
+245,55,Framing,2023-07-08,2023-06-29,On Track
+246,55,Plumbing,2024-07-15,2024-07-20,On Track
+247,56,Foundation,2024-11-22,2024-12-02,Completed
+248,56,Framing,2025-01-13,2025-01-31,Delayed
+249,56,Plumbing,2025-03-06,2025-03-25,Delayed
+250,56,Electrical,2025-04-27,2025-05-14,Delayed
+251,56,Finishing,2025-06-18,2025-06-19,On Track
+252,57,Foundation,2022-01-23,2022-02-12,On Track
+253,57,Framing,2022-08-23,2022-08-13,On Track
+254,57,Plumbing,2023-03-23,2023-03-21,On Track
+255,57,Electrical,2023-10-21,2023-11-10,Completed
+256,57,Finishing,2024-05-20,2024-05-19,Completed
+257,58,Foundation,2024-10-18,2024-10-21,On Track
+258,58,Framing,2025-03-24,2025-04-03,Completed
+259,58,Plumbing,2025-08-28,2025-08-22,Delayed
+260,58,Electrical,2026-02-01,2026-01-24,On Track
+261,58,Finishing,2026-07-08,2026-07-23,Delayed
+262,59,Foundation,2021-02-03,2021-02-11,Completed
+263,59,Framing,2021-07-08,2021-07-19,Delayed
+264,59,Plumbing,2021-12-10,2021-12-22,On Track
+265,59,Electrical,2022-05-14,2022-05-05,Delayed
+266,59,Finishing,2022-10-16,2022-10-09,Completed
+267,60,Foundation,2024-06-19,2024-06-18,Completed
+268,60,Framing,2025-08-25,2025-09-07,On Track
+269,61,Foundation,2022-09-10,2022-09-04,On Track
+270,61,Framing,2022-10-24,2022-10-29,Completed
+271,61,Plumbing,2022-12-07,2022-12-13,Completed
+272,61,Electrical,2023-01-20,2023-01-18,On Track
+273,61,Finishing,2023-03-05,2023-03-18,Delayed
+274,61,Foundation,2023-04-18,2023-05-01,On Track
+275,61,Framing,2023-06-01,2023-06-01,Delayed
+276,62,Foundation,2021-02-23,2021-02-15,Completed
+277,62,Framing,2021-08-30,,Delayed
+278,62,Plumbing,2022-03-06,2022-03-12,Delayed
+279,62,Electrical,2022-09-10,2022-09-27,Delayed
+280,62,Finishing,2023-03-17,2023-03-12,On Track
+281,62,Foundation,2023-09-21,2023-10-09,Completed
+282,63,Foundation,2022-12-17,2022-12-14,On Track
+283,63,Framing,2024-01-29,2024-01-20,On Track
+284,64,Foundation,2023-06-01,2023-05-23,Delayed
+285,64,Framing,2023-10-11,2023-10-30,On Track
+286,64,Plumbing,2024-02-20,2024-02-27,Completed
+287,65,Foundation,2020-05-16,2020-05-26,Delayed
+288,65,Framing,2020-10-17,2020-10-14,Completed
+289,65,Plumbing,2021-03-20,2021-03-20,On Track
+290,65,Electrical,2021-08-21,2021-08-29,Completed
+291,65,Finishing,2022-01-22,2022-02-02,On Track
+292,65,Foundation,2022-06-25,2022-06-22,On Track
+293,65,Framing,2022-11-26,2022-12-16,Delayed
+294,66,Foundation,2021-10-21,2021-11-04,Delayed
+295,66,Framing,2022-07-06,2022-06-28,On Track
+296,66,Plumbing,2023-03-21,2023-03-22,Completed
+297,66,Electrical,2023-12-04,2023-12-19,Completed
+298,67,Foundation,2024-06-29,2024-07-03,Delayed
+299,67,Framing,2025-04-12,2025-04-26,Completed
+300,67,Plumbing,2026-01-24,2026-02-11,On Track
+301,68,Foundation,2021-09-11,2021-09-01,On Track
+302,68,Framing,2022-02-08,2022-02-05,Completed
+303,68,Plumbing,2022-07-08,2022-07-24,On Track
+304,69,Foundation,2021-12-31,2021-12-21,Delayed
+305,69,Framing,2022-04-24,2022-05-11,Delayed
+306,69,Plumbing,2022-08-16,2022-08-09,On Track
+307,69,Electrical,2022-12-08,2022-12-11,On Track
+308,70,Foundation,2022-01-04,2022-01-16,On Track
+309,70,Framing,2022-10-25,2022-11-13,Completed
+310,70,Plumbing,2023-08-15,2023-08-18,Delayed
+311,71,Foundation,2024-02-03,,On Track
+312,71,Framing,2024-04-30,2024-05-06,Delayed
+313,71,Plumbing,2024-07-26,2024-07-18,On Track
+314,71,Electrical,2024-10-21,2024-10-24,On Track
+315,71,Finishing,2025-01-16,2025-01-13,Delayed
+316,72,Foundation,2022-02-17,2022-03-01,Delayed
+317,72,Framing,2022-06-19,2022-06-19,On Track
+318,72,Plumbing,2022-10-19,2022-10-11,On Track
+319,72,Electrical,2023-02-18,2023-03-04,On Track
+320,72,Finishing,2023-06-20,2023-06-14,Delayed
+321,73,Foundation,2024-09-16,2024-09-16,Completed
+322,73,Framing,2025-03-28,2025-03-29,On Track
+323,73,Plumbing,2025-10-07,2025-10-11,Delayed
+324,73,Electrical,2026-04-18,2026-05-05,On Track
+325,73,Finishing,2026-10-28,2026-11-12,Completed
+326,74,Foundation,2023-09-04,,Delayed
+327,74,Framing,2023-12-03,,On Track
+328,74,Plumbing,2024-03-02,2024-03-22,Completed
+329,74,Electrical,2024-05-31,2024-05-22,Delayed
+330,74,Finishing,2024-08-29,2024-09-14,On Track
+331,74,Foundation,2024-11-27,2024-12-17,Delayed
+332,74,Framing,2025-02-25,2025-03-04,On Track
+333,75,Foundation,2023-10-03,2023-10-07,On Track
+334,75,Framing,2024-02-27,,On Track
+335,76,Foundation,2024-10-19,2024-10-15,Delayed
+336,76,Framing,2025-09-28,2025-10-09,Completed
+337,76,Plumbing,2026-09-07,2026-08-30,Delayed
+338,77,Foundation,2021-01-06,2020-12-27,On Track
+339,77,Framing,2021-04-27,2021-05-15,On Track
+340,78,Foundation,2020-09-20,2020-10-08,Delayed
+341,78,Framing,2021-12-03,,Delayed
+342,79,Foundation,2021-04-28,2021-04-23,Delayed
+343,79,Framing,2022-10-22,2022-11-07,Delayed
+344,80,Foundation,2021-10-08,2021-10-10,On Track
+345,80,Framing,2023-05-20,2023-05-21,On Track
+346,81,Foundation,2021-05-27,2021-05-25,On Track
+347,81,Framing,2021-08-25,2021-08-16,Completed
+348,81,Plumbing,2021-11-23,2021-11-20,Delayed
+349,81,Electrical,2022-02-21,2022-02-24,Delayed
+350,82,Foundation,2023-07-16,2023-07-08,On Track
+351,82,Framing,2024-12-29,2025-01-01,Completed
+352,83,Foundation,2022-05-10,2022-05-20,Completed
+353,83,Framing,2023-04-03,,Delayed
+354,83,Plumbing,2024-02-25,2024-03-11,Delayed
+355,84,Foundation,2021-09-04,2021-09-19,Completed
+356,84,Framing,2021-11-10,2021-11-16,Delayed
+357,84,Plumbing,2022-01-16,,Completed
+358,84,Electrical,2022-03-24,,Delayed
+359,84,Finishing,2022-05-30,2022-05-21,Delayed
+360,84,Foundation,2022-08-05,2022-08-11,Completed
+361,85,Foundation,2021-09-19,2021-09-14,Completed
+362,85,Framing,2022-08-25,2022-08-22,Completed
+363,85,Plumbing,2023-07-31,2023-07-22,On Track
+364,86,Foundation,2023-05-11,2023-05-28,Delayed
+365,86,Framing,2023-09-30,2023-10-01,On Track
+366,86,Plumbing,2024-02-19,2024-02-14,Delayed
+367,86,Electrical,2024-07-10,2024-07-25,Delayed
+368,86,Finishing,2024-11-29,2024-12-18,Completed
+369,86,Foundation,2025-04-20,2025-05-02,Completed
+370,87,Foundation,2024-09-12,2024-09-06,On Track
+371,87,Framing,2025-03-26,2025-04-11,Delayed
+372,87,Plumbing,2025-10-07,2025-10-14,Delayed
+373,87,Electrical,2026-04-20,,On Track
+374,87,Finishing,2026-11-01,2026-11-10,Completed
+375,87,Foundation,2027-05-15,,Completed
+376,88,Foundation,2025-03-04,2025-03-19,Completed
+377,88,Framing,2025-12-20,2025-12-15,Delayed
+378,88,Plumbing,2026-10-07,,Completed
+379,89,Foundation,2024-12-08,2024-12-27,On Track
+380,89,Framing,2025-05-11,2025-05-28,Delayed
+381,89,Plumbing,2025-10-12,,Completed
+382,89,Electrical,2026-03-15,2026-04-04,Completed
+383,89,Finishing,2026-08-16,2026-08-09,Delayed
+384,89,Foundation,2027-01-17,2027-01-11,Completed
+385,89,Framing,2027-06-20,2027-07-10,Completed
+386,90,Foundation,2025-01-15,2025-01-25,Completed
+387,90,Framing,2025-03-14,2025-04-03,Completed
+388,90,Plumbing,2025-05-11,2025-05-26,Completed
+389,90,Electrical,2025-07-08,2025-07-16,Delayed
+390,90,Finishing,2025-09-04,2025-09-03,Delayed
+391,91,Foundation,2024-04-02,2024-03-28,Completed
+392,91,Framing,2024-12-24,2025-01-13,Completed
+393,91,Plumbing,2025-09-16,2025-09-07,Delayed
+394,92,Foundation,2024-02-19,2024-02-16,On Track
+395,92,Framing,2024-04-21,2024-05-10,Delayed
+396,92,Plumbing,2024-06-22,,Delayed
+397,92,Electrical,2024-08-23,2024-08-23,On Track
+398,92,Finishing,2024-10-24,2024-11-09,Completed
+399,92,Foundation,2024-12-25,2025-01-07,Delayed
+400,93,Foundation,2024-02-18,2024-02-16,Completed
+401,93,Framing,2025-09-03,2025-08-26,On Track
+402,94,Foundation,2024-06-20,,Delayed
+403,94,Framing,2024-07-25,2024-08-07,On Track
+404,94,Plumbing,2024-08-29,2024-09-16,Delayed
+405,94,Electrical,2024-10-03,2024-10-04,On Track
+406,94,Finishing,2024-11-07,2024-11-23,Completed
+407,94,Foundation,2024-12-12,2024-12-22,On Track
+408,94,Framing,2025-01-16,2025-01-11,On Track
+409,95,Foundation,2024-01-21,2024-01-11,On Track
+410,95,Framing,2024-10-09,2024-10-01,Delayed
+411,95,Plumbing,2025-06-28,2025-06-23,Completed
+412,95,Electrical,2026-03-17,2026-04-06,On Track
+413,96,Foundation,2023-07-07,2023-07-16,Delayed
+414,96,Framing,2024-02-07,,Completed
+415,96,Plumbing,2024-09-09,2024-09-04,Delayed
+416,96,Electrical,2025-04-12,,Delayed
+417,97,Foundation,2023-10-05,2023-10-01,Completed
+418,97,Framing,2024-01-16,2024-01-29,Completed
+419,97,Plumbing,2024-04-28,2024-04-26,Delayed
+420,98,Foundation,2022-03-15,,Completed
+421,98,Framing,2022-11-24,2022-12-01,On Track
+422,98,Plumbing,2023-08-05,2023-07-27,Delayed
+423,99,Foundation,2022-04-18,2022-04-17,Completed
+424,99,Framing,2022-11-01,2022-11-10,On Track
+425,100,Foundation,2023-11-18,2023-11-14,Delayed
+426,100,Framing,2024-09-29,2024-09-21,On Track
+427,101,Foundation,2024-02-24,2024-03-10,Delayed
+428,101,Framing,2024-04-30,2024-05-18,On Track
+429,101,Plumbing,2024-07-05,2024-07-15,On Track
+430,101,Electrical,2024-09-09,2024-09-10,Delayed
+431,102,Foundation,2024-08-27,,Delayed
+432,102,Framing,2025-06-12,2025-06-16,Delayed
+433,102,Plumbing,2026-03-28,,Completed
+434,103,Foundation,2024-09-08,,Delayed
+435,103,Framing,2024-10-10,2024-10-25,Completed
+436,103,Plumbing,2024-11-11,2024-11-08,Delayed
+437,103,Electrical,2024-12-13,2024-12-29,Completed
+438,103,Finishing,2025-01-14,2025-01-25,Delayed
+439,103,Foundation,2025-02-15,2025-02-23,Delayed
+440,103,Framing,2025-03-19,,Completed
+441,104,Foundation,2023-09-07,2023-09-13,Completed
+442,104,Framing,2024-07-05,2024-07-20,Completed
+443,105,Foundation,2023-10-13,2023-10-06,Delayed
+444,105,Framing,2024-04-26,2024-04-21,On Track
+445,105,Plumbing,2024-11-08,2024-11-04,On Track
+446,106,Foundation,2023-08-15,,Completed
+447,106,Framing,2024-03-04,2024-03-07,Completed
+448,107,Foundation,2021-04-03,2021-04-19,Delayed
+449,107,Framing,2021-08-26,2021-09-14,On Track
+450,107,Plumbing,2022-01-18,2022-01-10,Delayed
+451,108,Foundation,2021-05-16,2021-05-16,Completed
+452,108,Framing,2021-10-29,2021-11-02,On Track
+453,108,Plumbing,2022-04-13,2022-04-28,Completed
+454,108,Electrical,2022-09-26,2022-10-02,On Track
+455,108,Finishing,2023-03-11,2023-03-14,Completed
+456,108,Foundation,2023-08-24,2023-09-01,On Track
+457,109,Foundation,2022-02-18,2022-02-26,Delayed
+458,109,Framing,2023-07-10,2023-07-27,Delayed
+459,110,Foundation,2021-09-30,2021-09-28,Delayed
+460,110,Framing,2022-05-07,2022-05-15,On Track
+461,110,Plumbing,2022-12-12,2022-12-07,On Track
+462,110,Electrical,2023-07-19,2023-07-28,Completed
+463,110,Finishing,2024-02-23,,Delayed
+464,111,Foundation,2024-06-23,,Delayed
+465,111,Framing,2024-11-05,2024-11-24,Delayed
+466,111,Plumbing,2025-03-20,2025-03-10,Delayed
+467,111,Electrical,2025-08-02,2025-08-01,Delayed
+468,111,Finishing,2025-12-15,2026-01-01,On Track
+469,111,Foundation,2026-04-29,2026-05-16,Delayed
+470,111,Framing,2026-09-11,2026-09-24,Delayed
+471,112,Foundation,2025-03-23,2025-04-05,Completed
+472,112,Framing,2025-10-14,2025-10-06,On Track
+473,112,Plumbing,2026-05-07,2026-05-26,Completed
+474,112,Electrical,2026-11-28,2026-12-03,Delayed
+475,113,Foundation,2022-12-14,2022-12-20,On Track
+476,113,Framing,2023-08-07,2023-08-06,Delayed
+477,114,Foundation,2024-03-09,2024-03-23,Completed
+478,114,Framing,2024-06-04,2024-05-25,On Track
+479,114,Plumbing,2024-08-30,,On Track
+480,115,Foundation,2024-03-22,2024-03-13,Completed
+481,115,Framing,2024-05-28,2024-05-24,Delayed
+482,115,Plumbing,2024-08-03,2024-08-09,On Track
+483,115,Electrical,2024-10-09,,Delayed
+484,115,Finishing,2024-12-15,2024-12-20,On Track
+485,116,Foundation,2025-03-10,2025-03-18,Delayed
+486,116,Framing,2025-06-21,2025-06-16,Delayed
+487,116,Plumbing,2025-10-02,2025-10-15,On Track
+488,116,Electrical,2026-01-13,,On Track
+489,116,Finishing,2026-04-26,2026-04-21,On Track
+490,117,Foundation,2023-04-18,2023-04-28,On Track
+491,117,Framing,2024-03-27,2024-03-25,Completed
+492,117,Plumbing,2025-03-06,2025-02-24,Completed
+493,118,Foundation,2023-06-06,2023-06-11,Completed
+494,118,Framing,2023-09-07,2023-09-02,On Track
+495,119,Foundation,2024-04-16,2024-04-14,Delayed
+496,119,Framing,2024-12-15,2024-12-27,Completed
+497,119,Plumbing,2025-08-15,2025-08-13,Delayed
+498,120,Foundation,2022-12-27,2022-12-31,Delayed
+499,120,Framing,2023-04-20,2023-04-19,Completed
+500,120,Plumbing,2023-08-12,2023-08-14,On Track
+501,120,Electrical,2023-12-04,2023-12-10,Delayed
+502,121,Foundation,2024-06-18,2024-06-28,Delayed
+503,121,Framing,2024-11-09,2024-11-08,Delayed
+504,121,Plumbing,2025-04-02,2025-03-25,Delayed
+505,121,Electrical,2025-08-24,2025-09-03,Delayed
+506,121,Finishing,2026-01-15,2026-01-13,Completed
+507,121,Foundation,2026-06-08,2026-06-07,Completed
+508,122,Foundation,2022-08-29,,Completed
+509,122,Framing,2023-09-06,2023-09-08,Completed
+510,122,Plumbing,2024-09-13,2024-09-07,Completed
+511,123,Foundation,2025-02-01,2025-01-31,Delayed
+512,123,Framing,2025-07-02,2025-07-04,On Track
+513,123,Plumbing,2025-11-30,2025-12-08,Completed
+514,123,Electrical,2026-04-30,2026-05-16,Completed
+515,123,Finishing,2026-09-28,2026-10-10,Completed
+516,124,Foundation,2023-02-05,2023-02-20,Completed
+517,124,Framing,2023-07-07,2023-07-08,On Track
+518,124,Plumbing,2023-12-06,2023-12-22,Completed
+519,124,Electrical,2024-05-06,2024-05-01,Delayed
+520,124,Finishing,2024-10-05,2024-09-29,Completed
+521,124,Foundation,2025-03-06,2025-03-21,On Track
+522,124,Framing,2025-08-05,2025-08-25,Delayed
+523,125,Foundation,2024-08-11,2024-08-03,On Track
+524,125,Framing,2024-10-23,2024-11-05,Delayed
+525,125,Plumbing,2025-01-04,2025-01-19,Delayed
+526,125,Electrical,2025-03-18,2025-03-16,Delayed
+527,125,Finishing,2025-05-30,2025-06-16,On Track
+528,125,Foundation,2025-08-11,2025-08-28,Completed
+529,125,Framing,2025-10-23,2025-11-12,Delayed
+530,126,Foundation,2023-06-27,2023-07-03,Completed
+531,126,Framing,2023-11-28,2023-11-30,Delayed
+532,126,Plumbing,2024-04-30,2024-04-21,On Track
+533,127,Foundation,2023-01-08,2023-01-04,Completed
+534,127,Framing,2023-08-16,2023-09-03,Delayed
+535,127,Plumbing,2024-03-23,2024-03-17,Completed
+536,128,Foundation,2025-02-05,,Delayed
+537,128,Framing,2025-11-13,2025-11-23,Delayed
+538,128,Plumbing,2026-08-21,,Delayed
+539,129,Foundation,2020-09-06,2020-09-02,On Track
+540,129,Framing,2020-12-11,2020-12-19,Delayed
+541,129,Plumbing,2021-03-17,2021-04-01,On Track
+542,129,Electrical,2021-06-21,2021-06-15,Completed
+543,130,Foundation,2023-12-10,2023-12-12,Delayed
+544,130,Framing,2024-04-20,,Completed
+545,130,Plumbing,2024-08-30,2024-08-26,On Track
+546,130,Electrical,2025-01-09,2025-01-27,Completed
+547,130,Finishing,2025-05-21,,On Track
+548,131,Foundation,2021-08-16,2021-08-29,Completed
+549,131,Framing,2021-10-18,2021-11-05,On Track
+550,131,Plumbing,2021-12-20,2021-12-13,Completed
+551,131,Electrical,2022-02-21,2022-02-20,On Track
+552,131,Finishing,2022-04-25,2022-04-24,Delayed
+553,131,Foundation,2022-06-27,2022-07-10,Completed
+554,131,Framing,2022-08-29,2022-08-29,Completed
+555,132,Foundation,2023-02-26,2023-02-26,Delayed
+556,132,Framing,2024-03-21,2024-03-22,On Track
+557,132,Plumbing,2025-04-14,2025-05-04,Delayed
+558,133,Foundation,2025-04-13,2025-04-10,On Track
+559,133,Framing,2026-06-23,2026-06-19,Completed
+560,134,Foundation,2024-04-07,2024-04-02,Completed
+561,134,Framing,2024-06-09,2024-06-19,Delayed
+562,134,Plumbing,2024-08-11,2024-08-29,Completed
+563,134,Electrical,2024-10-13,,On Track
+564,134,Finishing,2024-12-15,2024-12-26,On Track
+565,134,Foundation,2025-02-16,2025-02-07,Delayed
+566,135,Foundation,2021-02-01,2021-02-03,Delayed
+567,135,Framing,2021-08-14,2021-08-19,On Track
+568,135,Plumbing,2022-02-24,2022-03-08,On Track
+569,135,Electrical,2022-09-06,2022-09-05,On Track
+570,135,Finishing,2023-03-19,2023-03-30,Completed
+571,136,Foundation,2022-08-11,2022-08-23,On Track
+572,136,Framing,2022-12-09,2022-12-15,On Track
+573,136,Plumbing,2023-04-08,2023-04-07,On Track
+574,136,Electrical,2023-08-06,2023-08-11,On Track
+575,136,Finishing,2023-12-04,2023-12-18,Completed
+576,136,Foundation,2024-04-02,2024-03-29,Delayed
+577,137,Foundation,2022-05-04,,Delayed
+578,137,Framing,2022-11-30,2022-12-19,Delayed
+579,137,Plumbing,2023-06-28,2023-06-28,On Track
+580,137,Electrical,2024-01-24,,On Track
+581,138,Foundation,2025-02-04,2025-02-15,On Track
+582,138,Framing,2025-05-18,2025-06-01,Completed
+583,138,Plumbing,2025-08-29,2025-09-11,Delayed
+584,138,Electrical,2025-12-10,2025-12-20,Delayed
+585,138,Finishing,2026-03-23,2026-03-21,On Track
+586,138,Foundation,2026-07-04,2026-07-20,On Track
+587,139,Foundation,2022-06-14,2022-06-15,Delayed
+588,139,Framing,2022-09-12,2022-09-15,On Track
+589,139,Plumbing,2022-12-11,2022-12-28,On Track
+590,139,Electrical,2023-03-11,2023-03-01,Completed
+591,140,Foundation,2021-10-06,2021-10-01,Delayed
+592,140,Framing,2022-01-07,2022-01-27,Completed
+593,140,Plumbing,2022-04-10,2022-04-02,Delayed
+594,140,Electrical,2022-07-12,2022-07-07,Delayed
+595,140,Finishing,2022-10-13,2022-11-02,Delayed
+596,140,Foundation,2023-01-14,2023-01-26,Delayed
+597,140,Framing,2023-04-17,2023-04-27,On Track
+598,141,Foundation,2023-01-16,2023-01-10,On Track
+599,141,Framing,2024-06-14,2024-07-04,On Track
+600,142,Foundation,2022-08-25,2022-09-13,Completed
+601,142,Framing,2023-03-02,2023-03-13,Completed
+602,142,Plumbing,2023-09-07,2023-09-09,Completed
+603,142,Electrical,2024-03-14,2024-03-04,Completed
+604,142,Finishing,2024-09-19,2024-10-07,Delayed
+605,143,Foundation,2022-08-10,2022-08-28,On Track
+606,143,Framing,2023-07-19,2023-07-11,Delayed
+607,144,Foundation,2022-06-01,2022-06-13,Completed
+608,144,Framing,2023-02-27,2023-03-13,Completed
+609,145,Foundation,2024-11-09,2024-11-06,Completed
+610,145,Framing,2025-04-07,2025-04-24,Completed
+611,145,Plumbing,2025-09-03,2025-09-15,On Track
+612,145,Electrical,2026-01-30,2026-02-02,On Track
+613,145,Finishing,2026-06-28,2026-07-03,Completed
+614,145,Foundation,2026-11-24,2026-12-04,Completed
+615,146,Foundation,2023-12-30,,On Track
+616,146,Framing,2024-02-12,2024-02-18,Delayed
+617,146,Plumbing,2024-03-27,2024-04-13,Delayed
+618,146,Electrical,2024-05-10,2024-05-10,Delayed
+619,146,Finishing,2024-06-23,2024-06-14,Completed
+620,146,Foundation,2024-08-06,2024-08-16,On Track
+621,147,Foundation,2020-10-23,2020-10-27,Completed
+622,147,Framing,2022-02-13,,Delayed
+623,148,Foundation,2021-02-12,2021-02-12,Delayed
+624,148,Framing,2021-08-29,2021-09-11,On Track
+625,148,Plumbing,2022-03-15,2022-03-17,Completed
+626,148,Electrical,2022-09-29,,On Track
+627,148,Finishing,2023-04-15,2023-04-30,Completed
+628,149,Foundation,2022-07-24,2022-07-23,Completed
+629,149,Framing,2022-11-27,2022-11-23,Delayed
+630,149,Plumbing,2023-04-02,2023-04-22,On Track
+631,149,Electrical,2023-08-06,2023-08-22,Delayed
+632,149,Finishing,2023-12-10,2023-12-10,Completed
+633,149,Foundation,2024-04-14,2024-04-23,Completed
+634,149,Framing,2024-08-18,2024-08-19,On Track
+635,150,Foundation,2020-09-27,2020-10-11,On Track
+636,150,Framing,2021-09-23,2021-09-23,Completed
+637,151,Foundation,2024-07-13,2024-07-20,Completed
+638,151,Framing,2024-12-21,,On Track
+639,151,Plumbing,2025-05-31,2025-06-05,Completed
+640,151,Electrical,2025-11-08,2025-11-21,On Track
+641,152,Foundation,2020-05-20,2020-05-29,On Track
+642,152,Framing,2021-01-04,2021-01-23,On Track
+643,152,Plumbing,2021-08-21,2021-08-25,On Track
+644,152,Electrical,2022-04-07,2022-04-19,Delayed
+645,153,Foundation,2022-02-09,2022-02-28,Completed
+646,153,Framing,2022-08-12,2022-08-20,Delayed
+647,154,Foundation,2023-11-28,2023-12-09,Completed
+648,154,Framing,2024-05-02,2024-04-26,On Track
+649,154,Plumbing,2024-10-05,2024-10-11,Completed
+650,154,Electrical,2025-03-10,2025-03-29,Completed
+651,154,Finishing,2025-08-13,2025-08-18,On Track
+652,155,Foundation,2022-02-13,2022-02-21,On Track
+653,155,Framing,2022-04-23,2022-04-16,Completed
+654,155,Plumbing,2022-07-01,2022-07-10,Completed
+655,155,Electrical,2022-09-08,2022-09-26,Completed
+656,155,Finishing,2022-11-16,2022-12-05,On Track
+657,155,Foundation,2023-01-24,2023-01-22,Delayed
+658,155,Framing,2023-04-03,2023-04-02,On Track
+659,156,Foundation,2025-02-05,2025-02-08,Completed
+660,156,Framing,2025-12-03,2025-12-09,Completed
+661,156,Plumbing,2026-09-30,2026-10-07,Completed
+662,157,Foundation,2022-03-18,2022-04-06,On Track
+663,157,Framing,2022-07-02,2022-06-28,Completed
+664,157,Plumbing,2022-10-16,2022-10-15,Completed
+665,157,Electrical,2023-01-30,2023-01-24,Completed
+666,157,Finishing,2023-05-16,2023-06-05,Completed
+667,157,Foundation,2023-08-30,2023-09-11,Completed
+668,157,Framing,2023-12-14,2023-12-07,Completed
+669,158,Foundation,2021-03-07,2021-03-15,Completed
+670,158,Framing,2021-10-07,2021-10-19,Completed
+671,158,Plumbing,2022-05-09,2022-05-27,Delayed
+672,158,Electrical,2022-12-09,2022-12-27,On Track
+673,158,Finishing,2023-07-11,2023-07-17,Delayed
+674,159,Foundation,2023-10-20,2023-10-11,On Track
+675,159,Framing,2024-05-17,2024-05-15,On Track
+676,159,Plumbing,2024-12-13,2024-12-12,On Track
+677,160,Foundation,2024-07-29,2024-08-10,On Track
+678,160,Framing,2024-12-24,2025-01-07,Delayed
+679,161,Foundation,2023-07-24,2023-07-17,Completed
+680,161,Framing,2023-12-25,2024-01-07,On Track
+681,161,Plumbing,2024-05-27,2024-06-09,Delayed
+682,161,Electrical,2024-10-28,2024-10-25,Completed
+683,161,Finishing,2025-03-31,2025-03-30,On Track
+684,162,Foundation,2024-12-26,2024-12-28,Completed
+685,162,Framing,2025-07-16,2025-07-16,On Track
+686,162,Plumbing,2026-02-03,2026-01-24,On Track
+687,162,Electrical,2026-08-24,2026-09-02,Delayed
+688,162,Finishing,2027-03-14,2027-03-30,Completed
+689,163,Foundation,2023-02-19,2023-03-03,Completed
+690,163,Framing,2023-04-03,2023-04-10,On Track
+691,163,Plumbing,2023-05-16,2023-05-30,On Track
+692,163,Electrical,2023-06-28,2023-06-27,Completed
+693,163,Finishing,2023-08-10,2023-08-02,On Track
+694,163,Foundation,2023-09-22,2023-10-05,Delayed
+695,163,Framing,2023-11-04,2023-10-26,Completed
+696,164,Foundation,2021-04-03,2021-03-28,Delayed
+697,164,Framing,2021-08-23,2021-08-13,Completed
+698,164,Plumbing,2022-01-12,2022-01-31,On Track
+699,164,Electrical,2022-06-03,2022-06-22,On Track
+700,165,Foundation,2024-08-26,2024-09-04,Delayed
+701,165,Framing,2025-02-12,2025-02-17,Completed
+702,165,Plumbing,2025-08-01,,Completed
+703,165,Electrical,2026-01-18,2026-01-18,On Track
+704,165,Finishing,2026-07-07,,Completed
+705,165,Foundation,2026-12-24,2026-12-19,Completed
+706,165,Framing,2027-06-12,,On Track
+707,166,Foundation,2024-11-23,2024-12-04,Delayed
+708,166,Framing,2025-08-23,2025-08-22,Completed
+709,166,Plumbing,2026-05-23,2026-05-29,Completed
+710,167,Foundation,2022-07-10,2022-06-30,Delayed
+711,167,Framing,2022-08-30,2022-09-03,Completed
+712,167,Plumbing,2022-10-20,2022-10-29,On Track
+713,167,Electrical,2022-12-10,,Delayed
+714,167,Finishing,2023-01-30,2023-02-01,On Track
+715,167,Foundation,2023-03-22,2023-03-24,Completed
+716,167,Framing,2023-05-12,,Completed
+717,168,Foundation,2024-11-18,2024-11-24,Delayed
+718,168,Framing,2025-04-27,,Completed
+719,168,Plumbing,2025-10-04,2025-09-30,On Track
+720,168,Electrical,2026-03-13,,Completed
+721,169,Foundation,2023-04-19,2023-04-09,On Track
+722,169,Framing,2023-06-27,2023-07-08,On Track
+723,169,Plumbing,2023-09-04,2023-09-21,On Track
+724,169,Electrical,2023-11-12,2023-11-08,Completed
+725,169,Finishing,2024-01-20,2024-02-07,Delayed
+726,169,Foundation,2024-03-29,2024-04-08,On Track
+727,170,Foundation,2023-06-05,2023-06-16,Delayed
+728,170,Framing,2023-10-09,2023-10-21,On Track
+729,170,Plumbing,2024-02-12,,Delayed
+730,170,Electrical,2024-06-17,,On Track
+731,170,Finishing,2024-10-21,2024-11-09,Delayed
+732,170,Foundation,2025-02-24,2025-02-28,Delayed
+733,170,Framing,2025-06-30,,Completed
+734,171,Foundation,2021-01-09,,Completed
+735,171,Framing,2021-06-06,,Completed
+736,172,Foundation,2020-06-29,2020-06-20,On Track
+737,172,Framing,2020-08-10,2020-08-11,On Track
+738,172,Plumbing,2020-09-21,2020-09-20,Delayed
+739,172,Electrical,2020-11-02,,Delayed
+740,172,Finishing,2020-12-14,2020-12-16,Completed
+741,172,Foundation,2021-01-25,2021-01-15,Completed
+742,173,Foundation,2022-04-11,2022-04-05,Completed
+743,173,Framing,2022-07-22,2022-07-21,On Track
+744,173,Plumbing,2022-11-01,2022-10-31,Completed
+745,174,Foundation,2025-02-05,2025-02-06,On Track
+746,174,Framing,2025-05-14,2025-05-21,On Track
+747,174,Plumbing,2025-08-20,,Completed
+748,174,Electrical,2025-11-26,2025-12-05,Completed
+749,174,Finishing,2026-03-04,,On Track
+750,174,Foundation,2026-06-10,2026-06-23,Completed
+751,174,Framing,2026-09-16,2026-09-17,Completed
+752,175,Foundation,2021-09-09,2021-09-03,On Track
+753,175,Framing,2021-10-15,2021-10-24,On Track
+754,175,Plumbing,2021-11-20,2021-11-13,Completed
+755,175,Electrical,2021-12-26,,Completed
+756,175,Finishing,2022-01-31,2022-02-04,On Track
+757,175,Foundation,2022-03-08,2022-03-07,Delayed
+758,176,Foundation,2023-12-10,2023-12-06,Delayed
+759,176,Framing,2024-04-24,2024-05-14,On Track
+760,177,Foundation,2022-03-25,2022-04-04,Delayed
+761,177,Framing,2022-04-25,,On Track
+762,177,Plumbing,2022-05-26,2022-05-26,Delayed
+763,177,Electrical,2022-06-26,2022-07-05,Completed
+764,177,Finishing,2022-07-27,2022-08-04,Completed
+765,177,Foundation,2022-08-27,2022-08-28,Delayed
+766,177,Framing,2022-09-27,,On Track
+767,178,Foundation,2023-04-28,2023-05-10,Delayed
+768,178,Framing,2024-02-04,2024-02-02,On Track
+769,178,Plumbing,2024-11-12,2024-11-23,Delayed
+770,179,Foundation,2022-03-01,2022-03-05,Delayed
+771,179,Framing,2022-07-04,2022-07-09,On Track
+772,179,Plumbing,2022-11-06,2022-11-16,Delayed
+773,179,Electrical,2023-03-11,2023-03-28,Completed
+774,179,Finishing,2023-07-14,2023-07-10,Completed
+775,180,Foundation,2021-10-30,,On Track
+776,180,Framing,2022-07-25,2022-08-11,On Track
+777,181,Foundation,2022-07-15,2022-07-23,Completed
+778,181,Framing,2022-10-09,2022-10-05,Completed
+779,181,Plumbing,2023-01-03,2023-01-01,Completed
+780,181,Electrical,2023-03-30,2023-04-04,On Track
+781,181,Finishing,2023-06-24,2023-06-25,Completed
+782,181,Foundation,2023-09-18,2023-10-01,On Track
+783,182,Foundation,2024-01-08,2024-01-14,Delayed
+784,182,Framing,2024-08-24,2024-08-25,Completed
+785,182,Plumbing,2025-04-10,2025-04-07,Completed
+786,182,Electrical,2025-11-25,2025-12-06,Completed
+787,182,Finishing,2026-07-12,2026-07-06,On Track
+788,183,Foundation,2023-07-25,2023-08-14,On Track
+789,183,Framing,2023-10-16,2023-10-29,Delayed
+790,183,Plumbing,2024-01-07,2023-12-29,Delayed
+791,183,Electrical,2024-03-30,,Delayed
+792,183,Finishing,2024-06-21,,On Track
+793,183,Foundation,2024-09-12,2024-09-18,Delayed
+794,184,Foundation,2021-06-24,2021-06-29,On Track
+795,184,Framing,2022-01-14,2022-01-05,Delayed
+796,184,Plumbing,2022-08-06,2022-07-30,Completed
+797,184,Electrical,2023-02-26,2023-03-08,Completed
+798,184,Finishing,2023-09-18,2023-09-16,Completed
+799,185,Foundation,2023-08-28,2023-08-30,Delayed
+800,185,Framing,2023-12-30,2024-01-07,On Track
+801,185,Plumbing,2024-05-02,2024-05-08,On Track
+802,186,Foundation,2022-03-18,2022-03-20,Delayed
+803,186,Framing,2022-05-21,2022-05-26,Completed
+804,186,Plumbing,2022-07-24,2022-07-14,On Track
+805,186,Electrical,2022-09-26,2022-09-30,On Track
+806,186,Finishing,2022-11-29,2022-12-05,On Track
+807,186,Foundation,2023-02-01,2023-01-26,Delayed
+808,187,Foundation,2024-06-30,2024-07-12,Completed
+809,187,Framing,2024-12-27,2024-12-24,Delayed
+810,187,Plumbing,2025-06-25,2025-07-08,Completed
+811,187,Electrical,2025-12-22,2025-12-27,Completed
+812,187,Finishing,2026-06-20,2026-06-15,Delayed
+813,187,Foundation,2026-12-17,2026-12-07,On Track
+814,188,Foundation,2021-01-10,2021-01-18,Completed
+815,188,Framing,2021-05-23,,Completed
+816,188,Plumbing,2021-10-03,,Delayed
+817,188,Electrical,2022-02-13,2022-03-04,Delayed
+818,188,Finishing,2022-06-26,2022-07-05,Completed
+819,188,Foundation,2022-11-06,2022-10-27,Completed
+820,189,Foundation,2022-10-15,2022-10-31,On Track
+821,189,Framing,2022-11-11,2022-11-07,Delayed
+822,189,Plumbing,2022-12-08,2022-12-25,On Track
+823,189,Electrical,2023-01-04,2023-01-20,On Track
+824,189,Finishing,2023-01-31,2023-02-15,On Track
+825,189,Foundation,2023-02-27,2023-03-08,Delayed
+826,189,Framing,2023-03-26,2023-03-21,Delayed
+827,190,Foundation,2024-10-26,2024-11-04,On Track
+828,190,Framing,2025-03-05,2025-03-07,On Track
+829,190,Plumbing,2025-07-13,2025-07-03,Completed
+830,190,Electrical,2025-11-20,2025-12-01,On Track
+831,190,Finishing,2026-03-30,,Delayed
+832,191,Foundation,2021-12-25,,Completed
+833,191,Framing,2022-03-14,2022-03-20,On Track
+834,191,Plumbing,2022-06-01,2022-06-06,Completed
+835,191,Electrical,2022-08-19,2022-08-26,Completed
+836,191,Finishing,2022-11-06,2022-11-16,Delayed
+837,191,Foundation,2023-01-24,2023-01-25,Completed
+838,192,Foundation,2023-06-04,2023-06-07,Delayed
+839,192,Framing,2023-12-18,2024-01-02,Delayed
+840,192,Plumbing,2024-07-02,2024-07-10,Completed
+841,192,Electrical,2025-01-15,,On Track
+842,192,Finishing,2025-07-31,2025-07-29,On Track
+843,192,Foundation,2026-02-13,2026-03-04,Delayed
+844,193,Foundation,2023-12-16,2024-01-03,Delayed
+845,193,Framing,2024-03-20,,Completed
+846,193,Plumbing,2024-06-23,,Completed
+847,193,Electrical,2024-09-26,2024-09-19,Delayed
+848,193,Finishing,2024-12-30,2025-01-09,Delayed
+849,193,Foundation,2025-04-04,2025-04-07,On Track
+850,194,Foundation,2020-08-31,2020-09-10,Delayed
+851,194,Framing,2021-03-13,2021-03-30,Completed
+852,194,Plumbing,2021-09-23,2021-09-24,Completed
+853,194,Electrical,2022-04-05,2022-04-07,Delayed
+854,194,Finishing,2022-10-16,2022-10-23,Delayed
+855,195,Foundation,2025-03-24,2025-03-25,Delayed
+856,195,Framing,2025-08-22,2025-08-20,Completed
+857,195,Plumbing,2026-01-20,2026-01-21,Delayed
+858,196,Foundation,2025-02-13,2025-02-07,Completed
+859,196,Framing,2025-06-03,2025-05-27,Delayed
+860,196,Plumbing,2025-09-21,2025-10-06,On Track
+861,196,Electrical,2026-01-09,2026-01-02,Delayed
+862,196,Finishing,2026-04-29,2026-05-14,Completed
+863,196,Foundation,2026-08-17,2026-08-26,Completed
+864,196,Framing,2026-12-05,2026-11-26,Completed
+865,197,Foundation,2022-09-28,,On Track
+866,197,Framing,2023-09-28,2023-10-03,Delayed
+867,198,Foundation,2022-05-18,2022-05-10,Delayed
+868,198,Framing,2023-02-25,2023-02-17,Completed
+869,199,Foundation,2025-03-17,2025-04-05,Completed
+870,199,Framing,2025-06-09,2025-06-19,Completed
+871,199,Plumbing,2025-09-01,2025-09-21,On Track
+872,199,Electrical,2025-11-24,2025-12-04,On Track
+873,199,Finishing,2026-02-16,2026-02-12,Completed
+874,200,Foundation,2024-07-26,,Completed
+875,200,Framing,2024-11-29,2024-12-05,On Track
+876,200,Plumbing,2025-04-04,2025-04-13,On Track
+877,200,Electrical,2025-08-08,2025-08-09,On Track
+878,201,Foundation,2022-05-07,2022-04-29,Delayed
+879,201,Framing,2023-04-02,2023-04-03,Delayed
+880,201,Plumbing,2024-02-26,2024-03-05,On Track
+881,202,Foundation,2024-05-02,,On Track
+882,202,Framing,2024-06-15,2024-06-22,Completed
+883,202,Plumbing,2024-07-29,2024-08-17,Delayed
+884,202,Electrical,2024-09-11,2024-10-01,On Track
+885,202,Finishing,2024-10-25,2024-11-03,Delayed
+886,202,Foundation,2024-12-08,2024-12-27,On Track
+887,202,Framing,2025-01-21,2025-01-19,Completed
+888,203,Foundation,2023-03-29,,Delayed
+889,203,Framing,2023-08-17,2023-08-17,Completed
+890,204,Foundation,2024-11-25,2024-12-13,Completed
+891,204,Framing,2025-02-14,2025-02-12,Delayed
+892,204,Plumbing,2025-05-06,2025-05-14,On Track
+893,204,Electrical,2025-07-26,2025-08-09,Delayed
+894,205,Foundation,2021-07-29,2021-08-02,On Track
+895,205,Framing,2021-12-16,2021-12-21,On Track
+896,205,Plumbing,2022-05-05,2022-05-07,On Track
+897,205,Electrical,2022-09-22,2022-10-03,Delayed
+898,205,Finishing,2023-02-09,2023-02-12,Completed
+899,205,Foundation,2023-06-29,,Delayed
+900,205,Framing,2023-11-16,2023-11-13,Delayed
+901,206,Foundation,2022-04-04,2022-04-17,On Track
+902,206,Framing,2022-05-11,2022-05-18,Delayed
+903,206,Plumbing,2022-06-17,2022-06-17,Completed
+904,206,Electrical,2022-07-24,2022-07-22,Completed
+905,206,Finishing,2022-08-30,2022-09-10,On Track
+906,206,Foundation,2022-10-06,2022-10-11,On Track
+907,206,Framing,2022-11-12,2022-11-25,Delayed
+908,207,Foundation,2020-11-05,2020-11-02,On Track
+909,207,Framing,2021-09-06,2021-09-22,On Track
+910,207,Plumbing,2022-07-08,2022-07-22,On Track
+911,208,Foundation,2024-06-17,2024-07-07,Completed
+912,208,Framing,2024-10-11,2024-10-01,Completed
+913,208,Plumbing,2025-02-04,,Delayed
+914,208,Electrical,2025-05-31,2025-06-01,Delayed
+915,208,Finishing,2025-09-24,2025-10-12,Completed
+916,208,Foundation,2026-01-18,2026-02-04,On Track
+917,208,Framing,2026-05-14,2026-05-28,Delayed
+918,209,Foundation,2022-07-17,2022-07-14,On Track
+919,209,Framing,2022-09-09,2022-08-31,Delayed
+920,209,Plumbing,2022-11-02,2022-11-07,On Track
+921,209,Electrical,2022-12-26,2023-01-01,Completed
+922,209,Finishing,2023-02-18,2023-03-04,On Track
+923,210,Foundation,2021-02-11,2021-02-17,Completed
+924,210,Framing,2021-04-02,,On Track
+925,210,Plumbing,2021-05-22,2021-05-24,Delayed
+926,210,Electrical,2021-07-11,2021-07-12,Delayed
+927,210,Finishing,2021-08-30,2021-08-25,On Track
+928,210,Foundation,2021-10-19,2021-10-17,Completed
+929,210,Framing,2021-12-08,2021-12-08,Delayed
+930,211,Foundation,2022-10-11,2022-10-07,Delayed
+931,211,Framing,2023-04-28,2023-04-29,Delayed
+932,211,Plumbing,2023-11-13,2023-11-17,On Track
+933,211,Electrical,2024-05-30,2024-06-07,On Track
+934,211,Finishing,2024-12-15,2024-12-28,On Track
+935,212,Foundation,2022-02-16,2022-02-19,On Track
+936,212,Framing,2022-04-11,2022-04-05,Completed
+937,212,Plumbing,2022-06-04,2022-05-29,On Track
+938,212,Electrical,2022-07-28,2022-07-23,On Track
+939,212,Finishing,2022-09-20,2022-10-08,Completed
+940,212,Foundation,2022-11-13,2022-11-20,Delayed
+941,213,Foundation,2024-04-14,2024-04-12,Completed
+942,213,Framing,2024-07-12,2024-07-03,Completed
+943,213,Plumbing,2024-10-09,,Delayed
+944,213,Electrical,2025-01-06,2025-01-11,On Track
+945,214,Foundation,2023-06-01,2023-06-14,Delayed
+946,214,Framing,2024-01-09,2024-01-10,Delayed
+947,214,Plumbing,2024-08-18,,On Track
+948,214,Electrical,2025-03-28,2025-03-29,Completed
+949,214,Finishing,2025-11-05,2025-11-01,Completed
+950,215,Foundation,2022-06-20,2022-06-27,Delayed
+951,215,Framing,2022-08-21,2022-08-22,Completed
+952,215,Plumbing,2022-10-22,2022-10-27,Delayed
+953,215,Electrical,2022-12-23,,Completed
+954,215,Finishing,2023-02-23,2023-02-22,On Track
+955,215,Foundation,2023-04-26,2023-05-13,Delayed
+956,215,Framing,2023-06-27,2023-06-30,Completed
+957,216,Foundation,2021-11-10,2021-11-27,On Track
+958,216,Framing,2022-05-03,2022-04-28,Delayed
+959,216,Plumbing,2022-10-24,2022-10-24,Completed
+960,216,Electrical,2023-04-16,2023-04-14,Delayed
+961,216,Finishing,2023-10-07,2023-10-05,Delayed
+962,217,Foundation,2021-08-03,2021-08-11,Delayed
+963,217,Framing,2022-01-20,2022-01-23,On Track
+964,217,Plumbing,2022-07-09,2022-07-03,Completed
+965,217,Electrical,2022-12-26,2022-12-24,Completed
+966,217,Finishing,2023-06-14,,On Track
+967,217,Foundation,2023-12-01,2023-12-03,On Track
+968,217,Framing,2024-05-19,2024-06-07,Completed
+969,218,Foundation,2021-04-30,2021-04-20,Completed
+970,218,Framing,2022-10-04,2022-10-18,On Track
+971,219,Foundation,2021-08-24,2021-09-02,Completed
+972,219,Framing,2021-12-07,2021-12-26,Delayed
+973,219,Plumbing,2022-03-22,2022-03-19,Delayed
+974,219,Electrical,2022-07-05,2022-07-09,On Track
+975,220,Foundation,2022-09-28,2022-10-14,On Track
+976,220,Framing,2022-12-17,2022-12-28,Delayed
+977,220,Plumbing,2023-03-07,2023-03-24,Completed
+978,220,Electrical,2023-05-26,2023-06-14,Delayed
+979,220,Finishing,2023-08-14,2023-08-08,Completed
+980,220,Foundation,2023-11-02,2023-11-09,Completed
+981,221,Foundation,2020-04-20,2020-04-30,Completed
+982,221,Framing,2020-09-18,2020-09-21,Completed
+983,221,Plumbing,2021-02-16,2021-02-23,Delayed
+984,221,Electrical,2021-07-17,2021-07-22,On Track
+985,221,Finishing,2021-12-15,2021-12-19,Delayed
+986,222,Foundation,2023-03-22,2023-03-16,On Track
+987,222,Framing,2023-11-20,2023-11-26,On Track
+988,222,Plumbing,2024-07-20,2024-07-21,Completed
+989,222,Electrical,2025-03-20,2025-03-10,Delayed
+990,223,Foundation,2022-11-28,,Delayed
+991,223,Framing,2023-02-10,2023-02-25,On Track
+992,223,Plumbing,2023-04-25,,Delayed
+993,223,Electrical,2023-07-08,2023-07-04,Completed
+994,223,Finishing,2023-09-20,2023-09-23,On Track
+995,224,Foundation,2024-04-14,2024-04-27,Delayed
+996,224,Framing,2024-08-12,2024-08-09,Delayed
+997,224,Plumbing,2024-12-10,2024-12-20,Completed
+998,224,Electrical,2025-04-09,2025-04-24,Delayed
+999,224,Finishing,2025-08-07,2025-08-06,Completed
+1000,224,Foundation,2025-12-05,2025-12-20,On Track
+1001,224,Framing,2026-04-04,,On Track
+1002,225,Foundation,2023-07-18,2023-07-11,Completed
+1003,225,Framing,2023-12-03,2023-12-07,Completed
+1004,225,Plumbing,2024-04-19,2024-04-24,On Track
+1005,225,Electrical,2024-09-04,,Completed
+1006,226,Foundation,2020-06-02,2020-05-28,Delayed
+1007,226,Framing,2021-09-17,2021-09-15,Delayed
+1008,227,Foundation,2021-10-10,2021-09-30,On Track
+1009,227,Framing,2022-03-12,2022-03-02,Delayed
+1010,227,Plumbing,2022-08-12,2022-08-15,Delayed
+1011,227,Electrical,2023-01-12,2023-01-13,On Track
+1012,227,Finishing,2023-06-14,,On Track
+1013,227,Foundation,2023-11-14,2023-11-05,Delayed
+1014,227,Framing,2024-04-15,2024-04-07,On Track
+1015,228,Foundation,2024-06-12,2024-06-30,Delayed
+1016,228,Framing,2025-06-18,,Completed
+1017,228,Plumbing,2026-06-24,2026-06-21,Delayed
+1018,229,Foundation,2022-10-15,2022-10-28,On Track
+1019,229,Framing,2023-10-07,2023-10-11,On Track
+1020,229,Plumbing,2024-09-28,2024-10-04,On Track
+1021,230,Foundation,2024-10-14,2024-10-16,Delayed
+1022,230,Framing,2024-12-17,2025-01-05,Completed
+1023,230,Plumbing,2025-02-19,,Completed
+1024,230,Electrical,2025-04-24,2025-04-30,Delayed
+1025,230,Finishing,2025-06-27,2025-07-07,Delayed
+1026,231,Foundation,2021-11-13,2021-11-30,On Track
+1027,231,Framing,2022-08-17,2022-08-14,Delayed
+1028,232,Foundation,2021-10-10,2021-10-05,Completed
+1029,232,Framing,2022-10-09,2022-10-02,On Track
+1030,233,Foundation,2022-11-25,2022-11-16,Completed
+1031,233,Framing,2023-09-06,2023-09-11,On Track
+1032,234,Foundation,2020-11-14,,On Track
+1033,234,Framing,2021-02-26,,Completed
+1034,234,Plumbing,2021-06-10,2021-06-10,Completed
+1035,234,Electrical,2021-09-22,,Completed
+1036,235,Foundation,2023-02-03,2023-02-15,On Track
+1037,235,Framing,2023-04-25,2023-04-19,Delayed
+1038,235,Plumbing,2023-07-15,2023-07-22,Delayed
+1039,236,Foundation,2022-02-12,2022-02-25,Completed
+1040,236,Framing,2022-06-11,2022-06-13,On Track
+1041,236,Plumbing,2022-10-08,2022-10-06,Delayed
+1042,236,Electrical,2023-02-04,2023-02-16,Delayed
+1043,236,Finishing,2023-06-03,2023-06-10,On Track
+1044,237,Foundation,2024-08-26,2024-08-21,Delayed
+1045,237,Framing,2025-03-13,2025-03-26,Completed
+1046,237,Plumbing,2025-09-28,2025-10-17,On Track
+1047,237,Electrical,2026-04-15,2026-04-07,Delayed
+1048,237,Finishing,2026-10-31,2026-10-30,Completed
+1049,237,Foundation,2027-05-18,2027-05-19,Completed
+1050,238,Foundation,2023-04-03,2023-04-05,On Track
+1051,238,Framing,2023-05-26,2023-06-04,Completed
+1052,238,Plumbing,2023-07-18,2023-07-15,On Track
+1053,238,Electrical,2023-09-09,2023-09-20,Delayed
+1054,238,Finishing,2023-11-01,2023-10-28,Delayed
+1055,238,Foundation,2023-12-24,2024-01-07,Completed
+1056,239,Foundation,2021-03-30,2021-03-30,Delayed
+1057,239,Framing,2021-10-11,,Completed
+1058,239,Plumbing,2022-04-24,,On Track
+1059,239,Electrical,2022-11-05,2022-10-31,On Track
+1060,240,Foundation,2022-11-16,2022-11-21,On Track
+1061,240,Framing,2023-04-05,2023-04-13,Delayed
+1062,241,Foundation,2022-02-20,2022-02-25,Completed
+1063,241,Framing,2022-06-26,2022-07-04,Delayed
+1064,241,Plumbing,2022-10-30,2022-10-27,On Track
+1065,241,Electrical,2023-03-05,2023-02-23,On Track
+1066,241,Finishing,2023-07-09,2023-07-19,On Track
+1067,241,Foundation,2023-11-12,2023-11-16,On Track
+1068,241,Framing,2024-03-17,2024-03-18,Delayed
+1069,242,Foundation,2024-03-21,2024-04-05,Completed
+1070,242,Framing,2024-12-09,2024-12-07,Completed
+1071,242,Plumbing,2025-08-29,2025-08-21,On Track
+1072,242,Electrical,2026-05-19,2026-06-08,Completed
+1073,243,Foundation,2022-07-02,2022-06-25,Completed
+1074,243,Framing,2023-04-01,2023-04-03,Completed
+1075,244,Foundation,2020-06-01,2020-05-29,On Track
+1076,244,Framing,2020-11-12,2020-11-19,Delayed
+1077,244,Plumbing,2021-04-25,2021-05-08,Completed
+1078,244,Electrical,2021-10-06,2021-10-14,Delayed
+1079,244,Finishing,2022-03-19,2022-03-31,On Track
+1080,244,Foundation,2022-08-30,2022-08-25,Completed
+1081,244,Framing,2023-02-10,2023-02-12,Completed
+1082,245,Foundation,2023-07-27,2023-08-03,Delayed
+1083,245,Framing,2023-12-06,2023-12-25,Delayed
+1084,245,Plumbing,2024-04-16,2024-04-23,Delayed
+1085,246,Foundation,2025-02-22,2025-02-25,Delayed
+1086,246,Framing,2025-06-09,2025-06-25,Completed
+1087,246,Plumbing,2025-09-24,2025-09-21,On Track
+1088,246,Electrical,2026-01-09,2026-01-11,Completed
+1089,247,Foundation,2025-01-26,2025-01-27,Delayed
+1090,247,Framing,2025-05-04,2025-05-24,Completed
+1091,247,Plumbing,2025-08-10,2025-08-01,Completed
+1092,247,Electrical,2025-11-16,2025-11-06,Delayed
+1093,248,Foundation,2022-11-13,2022-11-12,On Track
+1094,248,Framing,2024-03-20,2024-04-06,Completed
+1095,249,Foundation,2020-09-06,2020-09-25,Completed
+1096,249,Framing,2021-06-30,2021-07-08,On Track
+1097,249,Plumbing,2022-04-23,,Delayed
+1098,249,Electrical,2023-02-14,2023-02-08,Delayed
+1099,250,Foundation,2022-02-01,2022-01-29,Delayed
+1100,250,Framing,2022-06-23,2022-06-15,Completed
+1101,250,Plumbing,2022-11-12,2022-12-01,On Track
+1102,250,Electrical,2023-04-03,2023-04-16,Delayed
+1103,250,Finishing,2023-08-23,2023-08-18,Completed
+1104,250,Foundation,2024-01-12,2024-01-24,On Track
+1105,251,Foundation,2022-07-31,2022-08-10,Completed
+1106,251,Framing,2023-01-11,2023-01-26,On Track
+1107,251,Plumbing,2023-06-24,,Delayed
+1108,251,Electrical,2023-12-05,2023-12-06,Delayed
+1109,251,Finishing,2024-05-17,2024-05-20,On Track
+1110,251,Foundation,2024-10-28,2024-11-14,Completed
+1111,252,Foundation,2023-03-27,2023-04-13,On Track
+1112,252,Framing,2023-05-30,2023-06-09,Delayed
+1113,252,Plumbing,2023-08-02,2023-07-24,On Track
+1114,252,Electrical,2023-10-05,2023-10-05,On Track
+1115,252,Finishing,2023-12-08,2023-12-08,On Track
+1116,252,Foundation,2024-02-10,,Completed
+1117,252,Framing,2024-04-14,2024-04-16,Completed
+1118,253,Foundation,2020-10-27,,Delayed
+1119,253,Framing,2021-04-02,2021-04-01,On Track
+1120,253,Plumbing,2021-09-06,2021-08-31,Delayed
+1121,253,Electrical,2022-02-10,2022-02-18,Completed
+1122,253,Finishing,2022-07-17,2022-07-19,Delayed
+1123,253,Foundation,2022-12-21,2022-12-27,Completed
+1124,254,Foundation,2024-03-24,2024-04-07,Completed
+1125,254,Framing,2024-12-11,2024-12-07,Completed
+1126,254,Plumbing,2025-08-30,2025-09-07,Completed
+1127,255,Foundation,2022-07-11,2022-07-17,On Track
+1128,255,Framing,2022-11-28,2022-11-26,Delayed
+1129,255,Plumbing,2023-04-17,2023-04-28,On Track
+1130,255,Electrical,2023-09-04,2023-08-28,Delayed
+1131,255,Finishing,2024-01-22,2024-01-23,Delayed
+1132,255,Foundation,2024-06-10,2024-06-11,On Track
+1133,255,Framing,2024-10-28,2024-11-11,Delayed
+1134,256,Foundation,2021-11-20,2021-12-06,Delayed
+1135,256,Framing,2022-06-02,2022-06-11,On Track
+1136,256,Plumbing,2022-12-13,2023-01-01,On Track
+1137,256,Electrical,2023-06-25,2023-07-06,Completed
+1138,256,Finishing,2024-01-05,,Completed
+1139,256,Foundation,2024-07-17,2024-07-08,Completed
+1140,257,Foundation,2022-01-27,2022-02-13,Delayed
+1141,257,Framing,2022-11-17,2022-11-07,On Track
+1142,257,Plumbing,2023-09-07,2023-09-06,On Track
+1143,258,Foundation,2023-03-08,2023-03-04,On Track
+1144,258,Framing,2023-07-13,2023-07-09,Delayed
+1145,258,Plumbing,2023-11-17,2023-11-24,Completed
+1146,258,Electrical,2024-03-23,2024-03-17,Completed
+1147,259,Foundation,2021-04-23,2021-04-25,Completed
+1148,259,Framing,2022-06-06,,On Track
+1149,260,Foundation,2023-10-19,2023-10-18,Completed
+1150,260,Framing,2024-10-14,2024-10-23,Delayed
+1151,261,Foundation,2023-08-08,,Delayed
+1152,261,Framing,2023-09-19,2023-09-30,Completed
+1153,261,Plumbing,2023-10-31,2023-11-01,On Track
+1154,261,Electrical,2023-12-12,2023-12-11,Completed
+1155,261,Finishing,2024-01-23,2024-01-25,Delayed
+1156,261,Foundation,2024-03-05,2024-03-11,On Track
+1157,261,Framing,2024-04-16,2024-05-04,Completed
+1158,262,Foundation,2023-09-19,2023-09-11,Completed
+1159,262,Framing,2024-03-18,2024-04-07,Completed
+1160,262,Plumbing,2024-09-15,,Completed
+1161,262,Electrical,2025-03-15,2025-03-14,Delayed
+1162,262,Finishing,2025-09-12,2025-09-25,Delayed
+1163,262,Foundation,2026-03-12,2026-03-23,Completed
+1164,263,Foundation,2021-10-03,2021-09-30,Completed
+1165,263,Framing,2022-03-03,2022-03-01,Completed
+1166,263,Plumbing,2022-08-01,2022-07-30,On Track
+1167,263,Electrical,2022-12-30,2023-01-19,Delayed
+1168,264,Foundation,2023-04-10,2023-04-04,Delayed
+1169,264,Framing,2024-01-22,2024-02-02,Completed
+1170,264,Plumbing,2024-11-04,2024-11-06,Completed
+1171,265,Foundation,2021-04-01,2021-04-18,On Track
+1172,265,Framing,2021-05-16,2021-05-19,On Track
+1173,265,Plumbing,2021-06-30,2021-07-03,Completed
+1174,265,Electrical,2021-08-14,2021-08-14,On Track
+1175,265,Finishing,2021-09-28,2021-09-24,Completed
+1176,265,Foundation,2021-11-12,2021-11-19,On Track
+1177,266,Foundation,2022-03-21,2022-03-20,Completed
+1178,266,Framing,2023-01-29,2023-02-17,On Track
+1179,266,Plumbing,2023-12-09,2023-12-19,On Track
+1180,267,Foundation,2023-06-10,2023-06-02,Completed
+1181,267,Framing,2023-12-22,2023-12-15,On Track
+1182,267,Plumbing,2024-07-04,,Delayed
+1183,267,Electrical,2025-01-15,2025-02-02,Delayed
+1184,268,Foundation,2021-10-21,2021-10-25,Completed
+1185,268,Framing,2022-03-05,2022-03-24,On Track
+1186,268,Plumbing,2022-07-18,2022-08-01,On Track
+1187,268,Electrical,2022-11-30,,Completed
+1188,269,Foundation,2021-10-15,2021-10-13,Completed
+1189,269,Framing,2022-02-24,2022-02-21,On Track
+1190,269,Plumbing,2022-07-06,,On Track
+1191,269,Electrical,2022-11-15,2022-11-27,On Track
+1192,269,Finishing,2023-03-27,2023-04-02,Delayed
+1193,269,Foundation,2023-08-06,2023-08-18,On Track
+1194,270,Foundation,2022-01-06,2022-01-11,On Track
+1195,270,Framing,2022-03-14,2022-03-10,Delayed
+1196,270,Plumbing,2022-05-20,2022-06-03,Delayed
+1197,270,Electrical,2022-07-26,2022-08-15,Completed
+1198,270,Finishing,2022-10-01,2022-10-12,On Track
+1199,271,Foundation,2024-08-06,2024-08-01,Delayed
+1200,271,Framing,2026-01-10,2026-01-27,Completed
+1201,272,Foundation,2024-10-14,2024-10-31,On Track
+1202,272,Framing,2025-01-24,2025-01-27,On Track
+1203,272,Plumbing,2025-05-06,2025-05-15,Delayed
+1204,272,Electrical,2025-08-16,2025-08-29,Completed
+1205,273,Foundation,2021-08-01,2021-08-09,Completed
+1206,273,Framing,2021-09-22,2021-10-02,On Track
+1207,273,Plumbing,2021-11-13,2021-11-19,Delayed
+1208,273,Electrical,2022-01-04,2022-01-20,On Track
+1209,273,Finishing,2022-02-25,2022-03-03,Completed
+1210,273,Foundation,2022-04-18,2022-04-09,Completed
+1211,273,Framing,2022-06-09,2022-06-23,On Track
+1212,274,Foundation,2020-04-24,2020-04-23,Delayed
+1213,274,Framing,2020-06-25,2020-07-09,Delayed
+1214,274,Plumbing,2020-08-26,2020-08-21,Completed
+1215,275,Foundation,2024-10-02,2024-10-14,On Track
+1216,275,Framing,2025-03-13,2025-03-17,Delayed
+1217,276,Foundation,2023-04-14,2023-04-27,On Track
+1218,276,Framing,2024-04-09,2024-04-23,Completed
+1219,277,Foundation,2020-09-25,2020-09-19,Delayed
+1220,277,Framing,2020-11-20,,Delayed
+1221,277,Plumbing,2021-01-15,2021-01-23,On Track
+1222,277,Electrical,2021-03-12,2021-03-30,Delayed
+1223,277,Finishing,2021-05-07,2021-05-07,Completed
+1224,277,Foundation,2021-07-02,2021-07-17,Completed
+1225,278,Foundation,2023-01-08,2022-12-31,Delayed
+1226,278,Framing,2023-06-26,2023-07-06,Completed
+1227,279,Foundation,2024-04-06,2024-04-08,Completed
+1228,279,Framing,2024-07-05,2024-07-14,Delayed
+1229,279,Plumbing,2024-10-03,2024-10-10,On Track
+1230,279,Electrical,2025-01-01,2025-01-20,Completed
+1231,279,Finishing,2025-04-01,2025-04-18,On Track
+1232,279,Foundation,2025-06-30,2025-06-25,On Track
+1233,279,Framing,2025-09-28,2025-10-01,Completed
+1234,280,Foundation,2024-03-10,2024-03-09,On Track
+1235,280,Framing,2024-06-09,2024-06-27,On Track
+1236,280,Plumbing,2024-09-08,2024-08-29,Delayed
+1237,280,Electrical,2024-12-08,2024-11-28,Delayed
+1238,280,Finishing,2025-03-09,2025-03-16,Completed
+1239,281,Foundation,2022-09-20,2022-09-17,Completed
+1240,281,Framing,2022-11-17,2022-11-22,Delayed
+1241,281,Plumbing,2023-01-14,2023-01-06,On Track
+1242,281,Electrical,2023-03-13,2023-03-10,Delayed
+1243,281,Finishing,2023-05-10,2023-05-19,On Track
+1244,282,Foundation,2023-08-19,2023-08-14,Completed
+1245,282,Framing,2024-04-22,,On Track
+1246,283,Foundation,2023-12-03,2023-12-11,Delayed
+1247,283,Framing,2024-01-27,2024-01-27,On Track
+1248,283,Plumbing,2024-03-22,2024-03-15,On Track
+1249,283,Electrical,2024-05-16,2024-05-11,Completed
+1250,283,Finishing,2024-07-10,2024-07-21,Completed
+1251,283,Foundation,2024-09-03,2024-09-11,On Track
+1252,283,Framing,2024-10-28,2024-11-17,Completed
+1253,284,Foundation,2022-05-25,,Delayed
+1254,284,Framing,2022-09-21,2022-09-21,Delayed
+1255,284,Plumbing,2023-01-18,,Delayed
+1256,284,Electrical,2023-05-17,2023-06-02,Delayed
+1257,285,Foundation,2022-04-19,2022-04-13,Delayed
+1258,285,Framing,2022-08-21,2022-08-21,Completed
+1259,285,Plumbing,2022-12-23,2022-12-19,Completed
+1260,285,Electrical,2023-04-26,2023-04-17,Completed
+1261,285,Finishing,2023-08-28,2023-09-07,On Track
+1262,286,Foundation,2022-08-10,2022-08-23,Completed
+1263,286,Framing,2022-11-01,2022-10-31,Delayed
+1264,286,Plumbing,2023-01-23,2023-01-21,Completed
+1265,286,Electrical,2023-04-16,2023-04-17,Completed
+1266,286,Finishing,2023-07-08,2023-07-16,Completed
+1267,287,Foundation,2023-08-13,2023-08-18,On Track
+1268,287,Framing,2024-01-11,2024-01-29,Completed
+1269,287,Plumbing,2024-06-10,2024-06-09,On Track
+1270,287,Electrical,2024-11-08,,Completed
+1271,287,Finishing,2025-04-08,2025-04-23,On Track
+1272,287,Foundation,2025-09-06,2025-09-21,Delayed
+1273,287,Framing,2026-02-04,,Delayed
+1274,288,Foundation,2023-07-16,2023-07-31,On Track
+1275,288,Framing,2024-01-19,2024-01-29,Delayed
+1276,288,Plumbing,2024-07-24,2024-07-22,Delayed
+1277,288,Electrical,2025-01-27,2025-01-26,Delayed
+1278,288,Finishing,2025-08-02,,Completed
+1279,288,Foundation,2026-02-05,2026-02-05,Completed
+1280,289,Foundation,2023-08-27,2023-09-05,On Track
+1281,289,Framing,2023-12-04,2023-11-30,Delayed
+1282,289,Plumbing,2024-03-12,2024-03-31,Delayed
+1283,289,Electrical,2024-06-19,,On Track
+1284,289,Finishing,2024-09-26,2024-10-01,Delayed
+1285,289,Foundation,2025-01-03,2025-01-21,Delayed
+1286,290,Foundation,2024-02-13,2024-02-28,Completed
+1287,290,Framing,2024-06-10,2024-06-01,Delayed
+1288,290,Plumbing,2024-10-06,2024-10-14,Delayed
+1289,290,Electrical,2025-02-01,2025-02-08,On Track
+1290,290,Finishing,2025-05-30,2025-06-07,Delayed
+1291,291,Foundation,2020-08-04,2020-07-29,On Track
+1292,291,Framing,2021-06-25,2021-06-25,Completed
+1293,292,Foundation,2021-08-27,2021-09-12,Completed
+1294,292,Framing,2022-02-17,2022-02-19,On Track
+1295,292,Plumbing,2022-08-10,2022-08-27,Delayed
+1296,292,Electrical,2023-01-31,2023-02-12,Completed
+1297,292,Finishing,2023-07-24,2023-07-15,On Track
+1298,292,Foundation,2024-01-14,2024-01-19,Delayed
+1299,293,Foundation,2024-03-30,2024-04-15,On Track
+1300,293,Framing,2024-05-21,2024-05-27,On Track
+1301,293,Plumbing,2024-07-12,2024-07-13,On Track
+1302,293,Electrical,2024-09-02,,Completed
+1303,293,Finishing,2024-10-24,2024-10-14,Completed
+1304,294,Foundation,2022-07-18,2022-07-14,Delayed
+1305,294,Framing,2023-01-07,2023-01-20,Delayed
+1306,294,Plumbing,2023-06-29,2023-07-13,On Track
+1307,295,Foundation,2024-10-15,2024-10-26,On Track
+1308,295,Framing,2024-12-03,,Delayed
+1309,295,Plumbing,2025-01-21,2025-02-02,On Track
+1310,295,Electrical,2025-03-11,2025-03-01,On Track
+1311,295,Finishing,2025-04-29,2025-05-10,On Track
+1312,295,Foundation,2025-06-17,2025-06-17,On Track
+1313,296,Foundation,2022-02-09,2022-02-15,Completed
+1314,296,Framing,2023-05-17,,Delayed
+1315,297,Foundation,2020-05-07,2020-05-25,On Track
+1316,297,Framing,2020-06-23,2020-06-19,Completed
+1317,297,Plumbing,2020-08-09,2020-08-09,Completed
+1318,297,Electrical,2020-09-25,2020-09-18,On Track
+1319,297,Finishing,2020-11-11,2020-11-09,Completed
+1320,297,Foundation,2020-12-28,2021-01-04,On Track
+1321,297,Framing,2021-02-13,2021-02-20,Delayed
+1322,298,Foundation,2022-11-04,2022-10-29,Delayed
+1323,298,Framing,2023-01-07,2023-01-15,On Track
+1324,298,Plumbing,2023-03-12,2023-03-11,Delayed
+1325,298,Electrical,2023-05-15,2023-05-22,On Track
+1326,299,Foundation,2025-03-17,2025-03-22,On Track
+1327,299,Framing,2026-07-09,2026-07-02,On Track
+1328,300,Foundation,2020-06-08,2020-06-10,Completed
+1329,300,Framing,2020-10-12,2020-10-30,Completed
+1330,300,Plumbing,2021-02-15,2021-02-27,Delayed
+1331,300,Electrical,2021-06-21,2021-06-20,On Track
+1332,300,Finishing,2021-10-25,2021-11-06,Completed
+1333,301,Foundation,2024-08-22,2024-09-10,Delayed
+1334,301,Framing,2025-09-18,2025-09-26,Completed
+1335,302,Foundation,2022-08-18,2022-08-11,Completed
+1336,302,Framing,2022-12-24,2023-01-03,Delayed
+1337,302,Plumbing,2023-05-01,2023-05-06,On Track
+1338,302,Electrical,2023-09-06,2023-08-31,Completed
+1339,302,Finishing,2024-01-12,2024-01-10,Delayed
+1340,303,Foundation,2022-05-27,2022-06-08,Delayed
+1341,303,Framing,2023-03-03,2023-03-18,Delayed
+1342,303,Plumbing,2023-12-08,2023-12-12,On Track
+1343,304,Foundation,2022-02-18,2022-02-11,Delayed
+1344,304,Framing,2022-06-28,2022-07-15,Delayed
+1345,304,Plumbing,2022-11-05,2022-11-14,Completed
+1346,304,Electrical,2023-03-15,2023-03-08,Completed
+1347,304,Finishing,2023-07-23,2023-08-07,Completed
+1348,305,Foundation,2021-02-22,2021-02-14,Completed
+1349,305,Framing,2021-06-23,2021-06-27,Delayed
+1350,305,Plumbing,2021-10-22,2021-10-19,Completed
+1351,305,Electrical,2022-02-20,2022-02-15,Delayed
+1352,305,Finishing,2022-06-21,2022-06-13,Completed
+1353,305,Foundation,2022-10-20,2022-10-28,Delayed
+1354,305,Framing,2023-02-18,2023-02-26,Completed
+1355,306,Foundation,2024-09-08,2024-09-05,Completed
+1356,306,Framing,2025-02-20,2025-02-12,Completed
+1357,306,Plumbing,2025-08-04,2025-08-12,On Track
+1358,306,Electrical,2026-01-16,2026-01-24,Delayed
+1359,306,Finishing,2026-06-30,,Delayed
+1360,306,Foundation,2026-12-12,2026-12-07,Delayed
+1361,306,Framing,2027-05-26,2027-05-18,Completed
+1362,307,Foundation,2020-05-17,2020-05-31,Delayed
+1363,307,Framing,2020-06-30,2020-07-05,On Track
+1364,307,Plumbing,2020-08-13,2020-08-05,On Track
+1365,307,Electrical,2020-09-26,2020-10-14,Completed
+1366,307,Finishing,2020-11-09,,On Track
+1367,307,Foundation,2020-12-23,2021-01-03,Completed
+1368,308,Foundation,2025-01-22,2025-01-24,Delayed
+1369,308,Framing,2025-09-05,2025-09-01,Delayed
+1370,308,Plumbing,2026-04-19,2026-04-18,Completed
+1371,308,Electrical,2026-12-01,2026-11-30,Delayed
+1372,309,Foundation,2021-02-04,2021-02-23,On Track
+1373,309,Framing,2021-05-29,,Completed
+1374,309,Plumbing,2021-09-20,2021-09-22,Delayed
+1375,309,Electrical,2022-01-12,2022-01-03,Completed
+1376,309,Finishing,2022-05-06,,Completed
+1377,309,Foundation,2022-08-28,2022-09-04,Delayed
+1378,309,Framing,2022-12-20,2022-12-13,On Track
+1379,310,Foundation,2024-08-14,2024-08-17,Delayed
+1380,310,Framing,2025-03-01,2025-03-11,Delayed
+1381,310,Plumbing,2025-09-16,2025-09-18,Completed
+1382,311,Foundation,2022-09-27,2022-10-08,On Track
+1383,311,Framing,2023-03-18,2023-03-14,Delayed
+1384,311,Plumbing,2023-09-06,2023-09-22,Delayed
+1385,312,Foundation,2021-10-14,2021-10-08,On Track
+1386,312,Framing,2022-02-22,,Completed
+1387,312,Plumbing,2022-07-03,2022-07-21,Delayed
+1388,312,Electrical,2022-11-11,,Completed
+1389,312,Finishing,2023-03-22,2023-04-06,Delayed
+1390,312,Foundation,2023-07-31,2023-08-18,Completed
+1391,312,Framing,2023-12-09,2023-12-28,On Track
+1392,313,Foundation,2024-04-10,2024-04-16,Delayed
+1393,313,Framing,2024-09-12,2024-09-14,On Track
+1394,313,Plumbing,2025-02-14,2025-02-17,Completed
+1395,313,Electrical,2025-07-19,2025-07-24,On Track
+1396,313,Finishing,2025-12-21,2026-01-02,Delayed
+1397,314,Foundation,2024-05-16,2024-05-24,On Track
+1398,314,Framing,2024-10-12,2024-10-20,Delayed
+1399,314,Plumbing,2025-03-10,2025-03-03,Completed
+1400,314,Electrical,2025-08-06,2025-07-29,Completed
+1401,314,Finishing,2026-01-02,2026-01-08,Delayed
+1402,314,Foundation,2026-05-31,2026-06-04,Completed
+1403,315,Foundation,2022-05-29,2022-05-21,Completed
+1404,315,Framing,2022-10-01,2022-10-14,Completed
+1405,315,Plumbing,2023-02-03,2023-01-26,Completed
+1406,315,Electrical,2023-06-08,2023-06-23,Completed
+1407,315,Finishing,2023-10-11,2023-10-02,Completed
+1408,315,Foundation,2024-02-13,,Delayed
+1409,316,Foundation,2022-12-07,2022-12-25,Completed
+1410,316,Framing,2023-05-05,2023-05-05,Delayed
+1411,316,Plumbing,2023-10-01,2023-09-30,Completed
+1412,316,Electrical,2024-02-27,2024-03-17,Delayed
+1413,316,Finishing,2024-07-25,2024-08-07,Delayed
+1414,316,Foundation,2024-12-21,2024-12-12,Completed
+1415,317,Foundation,2024-05-02,,Delayed
+1416,317,Framing,2024-11-01,2024-11-16,On Track
+1417,317,Plumbing,2025-05-03,2025-05-02,On Track
+1418,318,Foundation,2023-09-24,2023-09-16,Delayed
+1419,318,Framing,2023-12-21,2023-12-19,Delayed
+1420,318,Plumbing,2024-03-18,2024-03-16,On Track
+1421,318,Electrical,2024-06-14,2024-06-27,On Track
+1422,318,Finishing,2024-09-10,2024-09-29,On Track
+1423,318,Foundation,2024-12-07,2024-12-18,On Track
+1424,319,Foundation,2020-06-13,2020-06-28,Delayed
+1425,319,Framing,2020-09-01,2020-08-27,On Track
+1426,319,Plumbing,2020-11-20,2020-11-20,On Track
+1427,319,Electrical,2021-02-08,2021-02-17,On Track
+1428,320,Foundation,2021-02-08,2021-02-22,Delayed
+1429,320,Framing,2021-08-20,2021-08-17,Completed
+1430,320,Plumbing,2022-03-01,2022-03-11,Completed
+1431,320,Electrical,2022-09-10,2022-09-23,On Track
+1432,320,Finishing,2023-03-22,2023-04-01,On Track
+1433,321,Foundation,2021-01-03,2020-12-29,Delayed
+1434,321,Framing,2021-06-09,2021-06-08,Completed
+1435,322,Foundation,2023-02-22,2023-02-24,Delayed
+1436,322,Framing,2024-01-31,2024-02-05,Completed
+1437,322,Plumbing,2025-01-08,2025-01-25,Delayed
+1438,323,Foundation,2022-05-31,2022-06-02,Completed
+1439,323,Framing,2022-09-28,2022-10-09,On Track
+1440,323,Plumbing,2023-01-26,2023-02-14,Delayed
+1441,323,Electrical,2023-05-26,2023-06-15,Completed
+1442,323,Finishing,2023-09-23,2023-10-12,Delayed
+1443,324,Foundation,2022-04-05,2022-04-03,On Track
+1444,324,Framing,2022-07-31,2022-07-29,Delayed
+1445,324,Plumbing,2022-11-25,2022-11-29,Completed
+1446,324,Electrical,2023-03-22,2023-03-19,Completed
+1447,325,Foundation,2021-02-05,2021-02-11,Completed
+1448,325,Framing,2021-06-26,2021-06-21,On Track
+1449,325,Plumbing,2021-11-14,,On Track
+1450,326,Foundation,2023-02-21,,On Track
+1451,326,Framing,2024-05-03,2024-05-14,On Track
+1452,327,Foundation,2020-06-04,2020-06-03,On Track
+1453,327,Framing,2020-10-21,2020-10-11,On Track
+1454,327,Plumbing,2021-03-09,2021-03-29,On Track
+1455,327,Electrical,2021-07-26,2021-08-15,On Track
+1456,327,Finishing,2021-12-12,2021-12-24,On Track
+1457,327,Foundation,2022-04-30,2022-05-17,Delayed
+1458,327,Framing,2022-09-16,2022-09-27,Completed
+1459,328,Foundation,2020-04-22,2020-05-07,On Track
+1460,328,Framing,2020-10-05,2020-10-17,Delayed
+1461,328,Plumbing,2021-03-20,2021-03-24,On Track
+1462,328,Electrical,2021-09-02,2021-09-12,Delayed
+1463,328,Finishing,2022-02-15,2022-03-01,Completed
+1464,328,Foundation,2022-07-31,2022-08-14,Delayed
+1465,329,Foundation,2021-07-18,,On Track
+1466,329,Framing,2022-02-27,2022-03-01,On Track
+1467,329,Plumbing,2022-10-09,2022-10-07,Delayed
+1468,330,Foundation,2021-07-18,,On Track
+1469,330,Framing,2021-12-22,2021-12-31,Completed
+1470,330,Plumbing,2022-05-28,2022-06-02,Completed
+1471,331,Foundation,2024-09-22,2024-09-18,On Track
+1472,331,Framing,2025-05-01,2025-05-20,Delayed
+1473,331,Plumbing,2025-12-08,,On Track
+1474,331,Electrical,2026-07-17,2026-07-25,Delayed
+1475,331,Finishing,2027-02-23,2027-02-13,On Track
+1476,332,Foundation,2024-04-08,,On Track
+1477,332,Framing,2024-08-31,2024-09-11,On Track
+1478,332,Plumbing,2025-01-23,2025-02-04,Delayed
+1479,332,Electrical,2025-06-17,,Completed
+1480,332,Finishing,2025-11-09,2025-11-29,Delayed
+1481,332,Foundation,2026-04-03,2026-04-06,Completed
+1482,332,Framing,2026-08-26,2026-09-09,On Track
+1483,333,Foundation,2023-10-30,,Completed
+1484,333,Framing,2023-12-08,2023-12-24,On Track
+1485,333,Plumbing,2024-01-16,2024-01-24,Delayed
+1486,333,Electrical,2024-02-24,2024-02-24,Delayed
+1487,333,Finishing,2024-04-03,2024-03-25,Completed
+1488,333,Foundation,2024-05-12,2024-05-04,Delayed
+1489,334,Foundation,2021-03-01,2021-03-17,Delayed
+1490,334,Framing,2022-10-21,2022-10-31,Completed
+1491,335,Foundation,2022-01-07,2022-01-27,On Track
+1492,335,Framing,2023-07-27,2023-07-26,On Track
+1493,336,Foundation,2021-02-27,2021-03-11,On Track
+1494,336,Framing,2021-03-30,2021-04-17,Completed
+1495,336,Plumbing,2021-04-30,2021-04-26,On Track
+1496,336,Electrical,2021-05-31,2021-05-21,Completed
+1497,336,Finishing,2021-07-01,2021-06-28,On Track
+1498,336,Foundation,2021-08-01,2021-08-16,Delayed
+1499,336,Framing,2021-09-01,2021-09-06,Delayed
+1500,337,Foundation,2023-05-13,2023-05-04,Delayed
+1501,337,Framing,2024-04-07,2024-04-22,Delayed
+1502,338,Foundation,2024-11-22,2024-11-18,Completed
+1503,338,Framing,2025-07-01,2025-07-07,Completed
+1504,339,Foundation,2024-08-20,2024-08-14,On Track
+1505,339,Framing,2024-12-31,,Completed
+1506,339,Plumbing,2025-05-13,2025-05-07,On Track
+1507,339,Electrical,2025-09-23,2025-09-28,Completed
+1508,339,Finishing,2026-02-03,2026-01-25,Completed
+1509,339,Foundation,2026-06-16,,Completed
+1510,340,Foundation,2024-05-28,2024-06-15,On Track
+1511,340,Framing,2025-01-27,2025-01-31,Completed
+1512,341,Foundation,2023-05-28,2023-06-13,On Track
+1513,341,Framing,2024-10-05,2024-10-10,Completed
+1514,342,Foundation,2022-01-02,2021-12-25,Delayed
+1515,342,Framing,2022-09-22,2022-09-22,Completed
+1516,342,Plumbing,2023-06-12,2023-06-23,On Track
+1517,343,Foundation,2020-07-09,2020-07-17,Delayed
+1518,343,Framing,2020-10-05,2020-10-21,On Track
+1519,343,Plumbing,2021-01-01,,On Track
+1520,343,Electrical,2021-03-30,,Delayed
+1521,343,Finishing,2021-06-26,2021-06-20,On Track
+1522,343,Foundation,2021-09-22,2021-10-04,On Track
+1523,343,Framing,2021-12-19,2021-12-23,Completed
+1524,344,Foundation,2024-10-28,,Completed
+1525,344,Framing,2025-08-27,2025-09-05,On Track
+1526,345,Foundation,2020-12-17,2021-01-04,On Track
+1527,345,Framing,2021-04-20,2021-04-10,On Track
+1528,346,Foundation,2021-04-01,2021-04-11,Delayed
+1529,346,Framing,2021-05-03,2021-05-06,Delayed
+1530,346,Plumbing,2021-06-04,2021-06-16,On Track
+1531,346,Electrical,2021-07-06,2021-07-16,Delayed
+1532,346,Finishing,2021-08-07,2021-08-10,On Track
+1533,346,Foundation,2021-09-08,2021-09-17,Completed
+1534,346,Framing,2021-10-10,2021-10-05,Completed
+1535,347,Foundation,2024-08-07,2024-08-17,Delayed
+1536,347,Framing,2024-11-13,2024-11-14,Completed
+1537,348,Foundation,2020-11-09,2020-11-05,Completed
+1538,348,Framing,2021-09-15,2021-09-08,Completed
+1539,348,Plumbing,2022-07-22,2022-07-28,Completed
+1540,349,Foundation,2022-07-20,2022-07-16,On Track
+1541,349,Framing,2022-08-21,2022-08-14,Completed
+1542,349,Plumbing,2022-09-22,2022-10-09,Delayed
+1543,349,Electrical,2022-10-24,2022-10-29,Completed
+1544,349,Finishing,2022-11-25,,Completed
+1545,349,Foundation,2022-12-27,2022-12-28,Delayed
+1546,349,Framing,2023-01-28,2023-01-26,Delayed
+1547,350,Foundation,2021-04-05,2021-03-29,Completed
+1548,350,Framing,2022-02-26,2022-02-21,On Track
+1549,351,Foundation,2025-02-21,2025-02-27,On Track
+1550,351,Framing,2025-04-10,2025-04-23,Completed
+1551,351,Plumbing,2025-05-28,2025-05-28,Completed
+1552,351,Electrical,2025-07-15,2025-07-26,On Track
+1553,351,Finishing,2025-09-01,2025-09-15,On Track
+1554,352,Foundation,2022-09-26,2022-09-23,On Track
+1555,352,Framing,2023-04-07,2023-04-09,On Track
+1556,353,Foundation,2022-09-26,2022-10-04,Delayed
+1557,353,Framing,2023-05-11,2023-05-05,Completed
+1558,353,Plumbing,2023-12-24,2023-12-28,Delayed
+1559,353,Electrical,2024-08-07,2024-08-01,On Track
+1560,353,Finishing,2025-03-22,2025-04-01,Delayed
+1561,354,Foundation,2022-08-02,2022-08-02,Completed
+1562,354,Framing,2022-12-26,,On Track
+1563,354,Plumbing,2023-05-21,2023-05-14,Delayed
+1564,355,Foundation,2024-08-09,2024-08-04,On Track
+1565,355,Framing,2025-03-09,2025-03-27,On Track
+1566,355,Plumbing,2025-10-07,2025-10-22,Completed
+1567,355,Electrical,2026-05-07,2026-05-25,Completed
+1568,355,Finishing,2026-12-05,2026-12-22,Delayed
+1569,356,Foundation,2021-08-25,2021-08-30,On Track
+1570,356,Framing,2022-02-07,2022-02-15,Delayed
+1571,356,Plumbing,2022-07-23,,Delayed
+1572,356,Electrical,2023-01-05,2023-01-18,On Track
+1573,356,Finishing,2023-06-20,2023-06-20,On Track
+1574,356,Foundation,2023-12-03,2023-12-21,On Track
+1575,357,Foundation,2023-03-22,,On Track
+1576,357,Framing,2023-06-17,2023-06-08,Completed
+1577,357,Plumbing,2023-09-12,2023-09-26,Delayed
+1578,357,Electrical,2023-12-08,2023-12-14,Completed
+1579,357,Finishing,2024-03-04,,Delayed
+1580,357,Foundation,2024-05-30,,On Track
+1581,358,Foundation,2020-10-12,2020-10-25,On Track
+1582,358,Framing,2021-03-21,2021-03-15,On Track
+1583,358,Plumbing,2021-08-28,2021-09-07,On Track
+1584,358,Electrical,2022-02-04,2022-02-09,On Track
+1585,358,Finishing,2022-07-14,2022-07-26,Completed
+1586,358,Foundation,2022-12-21,2023-01-03,Delayed
+1587,358,Framing,2023-05-30,2023-06-03,Completed
+1588,359,Foundation,2020-10-22,2020-10-17,Delayed
+1589,359,Framing,2021-02-21,2021-03-03,Completed
+1590,359,Plumbing,2021-06-23,2021-06-13,On Track
+1591,359,Electrical,2021-10-23,2021-10-25,Delayed
+1592,359,Finishing,2022-02-22,,Delayed
+1593,360,Foundation,2021-09-03,2021-09-15,Completed
+1594,360,Framing,2022-01-08,2022-01-16,Completed
+1595,360,Plumbing,2022-05-15,2022-05-07,Delayed
+1596,360,Electrical,2022-09-19,2022-10-02,Completed
+1597,361,Foundation,2021-08-25,2021-08-26,On Track
+1598,361,Framing,2021-11-23,2021-11-25,Completed
+1599,361,Plumbing,2022-02-21,2022-02-12,On Track
+1600,361,Electrical,2022-05-22,2022-06-01,On Track
+1601,361,Finishing,2022-08-20,2022-08-27,On Track
+1602,361,Foundation,2022-11-18,2022-11-12,On Track
+1603,361,Framing,2023-02-16,2023-02-23,Delayed
+1604,362,Foundation,2023-03-19,2023-04-08,Completed
+1605,362,Framing,2023-06-17,2023-06-13,On Track
+1606,362,Plumbing,2023-09-15,2023-09-15,Delayed
+1607,362,Electrical,2023-12-14,2023-12-20,Delayed
+1608,362,Finishing,2024-03-13,,Delayed
+1609,362,Foundation,2024-06-11,2024-06-15,Completed
+1610,362,Framing,2024-09-09,2024-09-25,Completed
+1611,363,Foundation,2021-08-08,2021-08-19,Delayed
+1612,363,Framing,2021-11-20,2021-11-24,Completed
+1613,363,Plumbing,2022-03-04,2022-03-24,On Track
+1614,363,Electrical,2022-06-16,2022-06-12,Delayed
+1615,363,Finishing,2022-09-28,,On Track
+1616,363,Foundation,2023-01-10,2023-01-09,On Track
+1617,364,Foundation,2021-05-31,2021-05-26,Completed
+1618,364,Framing,2022-07-21,2022-07-15,On Track
+1619,365,Foundation,2024-08-02,2024-08-22,Delayed
+1620,365,Framing,2025-01-23,2025-01-26,Completed
+1621,365,Plumbing,2025-07-16,2025-08-04,Delayed
+1622,365,Electrical,2026-01-06,2026-01-09,Completed
+1623,365,Finishing,2026-06-29,2026-06-19,On Track
+1624,365,Foundation,2026-12-20,2026-12-10,On Track
+1625,366,Foundation,2023-08-05,2023-08-15,Completed
+1626,366,Framing,2023-09-15,2023-09-15,Delayed
+1627,366,Plumbing,2023-10-26,2023-10-31,Completed
+1628,366,Electrical,2023-12-06,2023-12-12,Delayed
+1629,366,Finishing,2024-01-16,2024-01-20,On Track
+1630,366,Foundation,2024-02-26,2024-03-15,On Track
+1631,367,Foundation,2023-10-05,2023-10-02,Delayed
+1632,367,Framing,2024-07-19,2024-08-02,On Track
+1633,367,Plumbing,2025-05-03,2025-05-04,On Track
+1634,367,Electrical,2026-02-15,2026-02-24,Completed
+1635,368,Foundation,2023-09-07,2023-09-06,On Track
+1636,368,Framing,2023-12-09,2023-12-25,Completed
+1637,368,Plumbing,2024-03-11,2024-03-26,On Track
+1638,368,Electrical,2024-06-12,,Delayed
+1639,368,Finishing,2024-09-13,2024-09-21,Delayed
+1640,368,Foundation,2024-12-15,2024-12-16,Completed
+1641,369,Foundation,2023-10-19,2023-10-10,Delayed
+1642,369,Framing,2024-01-06,2023-12-31,Completed
+1643,369,Plumbing,2024-03-25,2024-03-20,On Track
+1644,369,Electrical,2024-06-12,,Delayed
+1645,369,Finishing,2024-08-30,2024-09-13,Delayed
+1646,369,Foundation,2024-11-17,2024-12-06,On Track
+1647,369,Framing,2025-02-04,2025-02-17,Completed
+1648,370,Foundation,2021-09-09,2021-09-19,Delayed
+1649,370,Framing,2021-10-30,2021-11-17,Completed
+1650,370,Plumbing,2021-12-20,2021-12-31,Completed
+1651,370,Electrical,2022-02-09,2022-02-22,Delayed
+1652,371,Foundation,2023-10-11,2023-10-23,Delayed
+1653,371,Framing,2024-07-15,,Completed
+1654,371,Plumbing,2025-04-19,2025-04-26,On Track
+1655,371,Electrical,2026-01-22,2026-01-24,On Track
+1656,372,Foundation,2020-08-27,,On Track
+1657,372,Framing,2021-01-01,2021-01-10,Completed
+1658,372,Plumbing,2021-05-08,2021-05-14,Delayed
+1659,372,Electrical,2021-09-12,,Completed
+1660,372,Finishing,2022-01-17,2022-02-03,Completed
+1661,373,Foundation,2022-03-01,2022-03-07,Delayed
+1662,373,Framing,2022-07-31,2022-07-31,Completed
+1663,374,Foundation,2022-05-05,2022-05-24,Delayed
+1664,374,Framing,2023-11-06,2023-10-31,Delayed
+1665,375,Foundation,2025-03-31,2025-04-02,Delayed
+1666,375,Framing,2025-08-11,2025-08-12,Delayed
+1667,375,Plumbing,2025-12-22,2026-01-08,On Track
+1668,375,Electrical,2026-05-04,2026-05-17,Completed
+1669,376,Foundation,2023-08-12,2023-08-27,On Track
+1670,376,Framing,2024-02-09,2024-02-24,Delayed
+1671,376,Plumbing,2024-08-08,2024-08-21,On Track
+1672,376,Electrical,2025-02-05,2025-02-21,On Track
+1673,376,Finishing,2025-08-05,2025-07-30,Delayed
+1674,377,Foundation,2023-07-14,,Completed
+1675,377,Framing,2023-09-20,2023-10-04,On Track
+1676,377,Plumbing,2023-11-27,2023-11-30,Delayed
+1677,377,Electrical,2024-02-03,2024-02-06,Delayed
+1678,377,Finishing,2024-04-11,2024-04-23,On Track
+1679,377,Foundation,2024-06-18,2024-06-14,Delayed
+1680,378,Foundation,2023-02-13,2023-02-20,Delayed
+1681,378,Framing,2023-10-18,2023-11-03,Delayed
+1682,378,Plumbing,2024-06-21,2024-06-28,On Track
+1683,378,Electrical,2025-02-23,2025-02-13,On Track
+1684,379,Foundation,2021-04-21,2021-04-20,Completed
+1685,379,Framing,2021-09-07,2021-09-12,Completed
+1686,379,Plumbing,2022-01-24,2022-02-11,On Track
+1687,379,Electrical,2022-06-12,2022-06-17,Completed
+1688,380,Foundation,2022-12-07,2022-11-27,Delayed
+1689,380,Framing,2023-05-21,2023-05-26,On Track
+1690,380,Plumbing,2023-11-02,2023-11-11,Completed
+1691,381,Foundation,2020-05-20,2020-05-28,Delayed
+1692,381,Framing,2020-11-29,2020-12-09,Completed
+1693,381,Plumbing,2021-06-10,2021-06-26,Completed
+1694,381,Electrical,2021-12-20,2022-01-02,Delayed
+1695,381,Finishing,2022-07-01,2022-06-26,On Track
+1696,382,Foundation,2021-11-13,2021-11-17,On Track
+1697,382,Framing,2022-06-10,2022-06-11,Delayed
+1698,382,Plumbing,2023-01-05,2023-01-06,Delayed
+1699,382,Electrical,2023-08-02,2023-07-24,Completed
+1700,383,Foundation,2023-10-02,,On Track
+1701,383,Framing,2023-11-15,2023-11-29,On Track
+1702,383,Plumbing,2023-12-29,2024-01-07,Completed
+1703,383,Electrical,2024-02-11,2024-02-11,Completed
+1704,383,Finishing,2024-03-26,2024-04-10,Completed
+1705,383,Foundation,2024-05-09,2024-05-21,On Track
+1706,383,Framing,2024-06-22,2024-06-29,On Track
+1707,384,Foundation,2024-09-21,2024-09-15,Delayed
+1708,384,Framing,2025-09-03,2025-09-17,Delayed
+1709,385,Foundation,2022-08-03,2022-07-27,Completed
+1710,385,Framing,2022-11-23,2022-11-20,Completed
+1711,385,Plumbing,2023-03-15,2023-03-24,Completed
+1712,386,Foundation,2023-04-23,2023-05-05,On Track
+1713,386,Framing,2023-06-30,2023-07-03,On Track
+1714,386,Plumbing,2023-09-06,2023-08-30,On Track
+1715,386,Electrical,2023-11-13,2023-11-18,Completed
+1716,386,Finishing,2024-01-20,2024-01-21,Delayed
+1717,386,Foundation,2024-03-28,2024-04-15,Completed
+1718,387,Foundation,2020-09-09,2020-09-04,On Track
+1719,387,Framing,2020-12-13,2020-12-26,On Track
+1720,387,Plumbing,2021-03-18,2021-03-12,On Track
+1721,387,Electrical,2021-06-21,2021-07-03,On Track
+1722,388,Foundation,2024-10-22,2024-10-16,Delayed
+1723,388,Framing,2025-04-03,2025-04-15,On Track
+1724,388,Plumbing,2025-09-13,,Delayed
+1725,389,Foundation,2022-11-12,2022-11-03,On Track
+1726,389,Framing,2023-01-21,2023-02-05,Completed
+1727,389,Plumbing,2023-04-01,2023-03-23,Delayed
+1728,389,Electrical,2023-06-10,,Completed
+1729,389,Finishing,2023-08-19,2023-08-09,On Track
+1730,390,Foundation,2020-09-26,2020-09-22,On Track
+1731,390,Framing,2021-02-09,2021-02-04,On Track
+1732,390,Plumbing,2021-06-25,2021-06-17,Completed
+1733,390,Electrical,2021-11-08,2021-11-28,Completed
+1734,390,Finishing,2022-03-24,2022-03-25,Completed
+1735,390,Foundation,2022-08-07,2022-08-21,On Track
+1736,391,Foundation,2020-07-19,,Completed
+1737,391,Framing,2020-08-31,,On Track
+1738,391,Plumbing,2020-10-13,2020-10-25,Delayed
+1739,391,Electrical,2020-11-25,2020-11-20,Completed
+1740,391,Finishing,2021-01-07,2020-12-28,On Track
+1741,391,Foundation,2021-02-19,2021-03-10,Completed
+1742,392,Foundation,2025-04-13,2025-04-18,Completed
+1743,392,Framing,2025-07-08,2025-07-03,On Track
+1744,392,Plumbing,2025-10-02,2025-09-27,Delayed
+1745,392,Electrical,2025-12-27,2025-12-30,On Track
+1746,392,Finishing,2026-03-23,2026-03-26,Delayed
+1747,392,Foundation,2026-06-17,2026-06-10,Completed
+1748,392,Framing,2026-09-11,2026-09-05,Delayed
+1749,393,Foundation,2022-01-08,2022-01-07,On Track
+1750,393,Framing,2022-04-23,2022-04-15,On Track
+1751,393,Plumbing,2022-08-06,2022-08-08,Completed
+1752,393,Electrical,2022-11-19,2022-12-02,Delayed
+1753,393,Finishing,2023-03-04,2023-03-01,Delayed
+1754,393,Foundation,2023-06-17,2023-07-04,On Track
+1755,393,Framing,2023-09-30,2023-10-18,Delayed
+1756,394,Foundation,2024-08-30,2024-08-31,Completed
+1757,394,Framing,2025-01-20,2025-01-25,Delayed
+1758,394,Plumbing,2025-06-12,2025-06-16,Completed
+1759,394,Electrical,2025-11-02,2025-10-25,Delayed
+1760,394,Finishing,2026-03-25,2026-03-27,On Track
+1761,394,Foundation,2026-08-15,2026-08-28,On Track
+1762,394,Framing,2027-01-05,2026-12-28,On Track
+1763,395,Foundation,2022-07-25,2022-07-21,Delayed
+1764,395,Framing,2022-09-26,2022-09-19,Delayed
+1765,395,Plumbing,2022-11-28,2022-12-11,Completed
+1766,395,Electrical,2023-01-30,2023-02-13,Delayed
+1767,396,Foundation,2025-04-09,2025-04-29,Delayed
+1768,396,Framing,2025-07-14,2025-07-25,Delayed
+1769,396,Plumbing,2025-10-18,2025-10-23,On Track
+1770,396,Electrical,2026-01-22,2026-02-05,On Track
+1771,396,Finishing,2026-04-28,2026-04-26,On Track
+1772,396,Foundation,2026-08-02,2026-08-12,On Track
+1773,396,Framing,2026-11-06,2026-10-30,On Track
+1774,397,Foundation,2022-09-26,,On Track
+1775,397,Framing,2023-04-26,2023-04-28,Delayed
+1776,397,Plumbing,2023-11-24,2023-11-18,Completed
+1777,397,Electrical,2024-06-23,2024-06-16,Completed
+1778,397,Finishing,2025-01-21,2025-02-04,Delayed
+1779,398,Foundation,2021-10-19,2021-10-15,Delayed
+1780,398,Framing,2022-04-28,2022-05-03,Completed
+1781,398,Plumbing,2022-11-05,2022-11-05,Completed
+1782,398,Electrical,2023-05-15,,On Track
+1783,398,Finishing,2023-11-22,2023-11-25,On Track
+1784,399,Foundation,2025-03-30,2025-04-03,Delayed
+1785,399,Framing,2025-08-08,2025-08-12,On Track
+1786,399,Plumbing,2025-12-17,2025-12-12,Delayed
+1787,399,Electrical,2026-04-27,2026-05-15,Delayed
+1788,399,Finishing,2026-09-05,2026-09-08,Completed
+1789,400,Foundation,2022-09-11,2022-09-16,Completed
+1790,400,Framing,2022-11-05,2022-11-16,Completed
+1791,400,Plumbing,2022-12-30,2023-01-10,Delayed
+1792,400,Electrical,2023-02-23,2023-02-28,On Track
+1793,400,Finishing,2023-04-19,,Delayed
+1794,401,Foundation,2021-06-03,2021-06-11,Completed
+1795,401,Framing,2022-01-22,2022-02-02,Delayed
+1796,401,Plumbing,2022-09-12,,Completed
+1797,401,Electrical,2023-05-03,2023-04-24,Delayed
+1798,401,Finishing,2023-12-22,2023-12-23,Completed
+1799,402,Foundation,2022-05-08,2022-05-22,Delayed
+1800,402,Framing,2023-08-10,,Delayed
+1801,403,Foundation,2023-09-26,2023-09-29,Completed
+1802,403,Framing,2024-03-08,2024-03-05,Completed
+1803,403,Plumbing,2024-08-19,2024-08-18,Completed
+1804,403,Electrical,2025-01-30,2025-01-22,On Track
+1805,404,Foundation,2023-04-06,,Delayed
+1806,404,Framing,2023-06-13,2023-06-04,Delayed
+1807,404,Plumbing,2023-08-20,2023-08-28,Delayed
+1808,404,Electrical,2023-10-27,,Delayed
+1809,405,Foundation,2024-08-08,2024-07-29,Delayed
+1810,405,Framing,2024-12-15,2024-12-23,Completed
+1811,405,Plumbing,2025-04-23,2025-04-16,On Track
+1812,405,Electrical,2025-08-30,2025-09-11,Delayed
+1813,405,Finishing,2026-01-06,2026-01-11,Completed
+1814,405,Foundation,2026-05-15,2026-05-15,Delayed
+1815,406,Foundation,2025-01-07,2025-01-10,Completed
+1816,406,Framing,2025-07-23,2025-08-09,On Track
+1817,406,Plumbing,2026-02-05,2026-02-21,On Track
+1818,406,Electrical,2026-08-21,2026-08-20,Delayed
+1819,407,Foundation,2024-08-04,2024-08-06,Completed
+1820,407,Framing,2024-09-04,2024-09-17,Completed
+1821,407,Plumbing,2024-10-05,2024-10-22,Completed
+1822,407,Electrical,2024-11-05,2024-11-05,Completed
+1823,407,Finishing,2024-12-06,2024-12-21,Delayed
+1824,407,Foundation,2025-01-06,2025-01-02,On Track
+1825,408,Foundation,2021-09-03,2021-09-19,Delayed
+1826,408,Framing,2022-01-13,2022-01-16,Delayed
+1827,408,Plumbing,2022-05-25,2022-05-21,Delayed
+1828,408,Electrical,2022-10-04,2022-10-13,Completed
+1829,408,Finishing,2023-02-13,2023-02-27,On Track
+1830,408,Foundation,2023-06-25,2023-07-05,On Track
+1831,408,Framing,2023-11-04,2023-11-12,Completed
+1832,409,Foundation,2024-12-05,2024-12-25,Completed
+1833,409,Framing,2025-02-27,2025-03-06,Delayed
+1834,409,Plumbing,2025-05-22,2025-06-10,Completed
+1835,409,Electrical,2025-08-14,2025-08-05,Delayed
+1836,409,Finishing,2025-11-06,2025-11-10,On Track
+1837,409,Foundation,2026-01-29,2026-02-11,Delayed
+1838,409,Framing,2026-04-23,2026-05-10,Delayed
+1839,410,Foundation,2020-06-25,2020-07-05,Delayed
+1840,410,Framing,2021-02-17,2021-02-15,Completed
+1841,411,Foundation,2023-05-25,2023-05-23,On Track
+1842,411,Framing,2024-04-30,2024-05-02,On Track
+1843,411,Plumbing,2025-04-06,,Delayed
+1844,412,Foundation,2023-08-01,2023-08-06,Delayed
+1845,412,Framing,2023-11-25,2023-11-28,On Track
+1846,412,Plumbing,2024-03-20,2024-03-16,On Track
+1847,412,Electrical,2024-07-14,2024-07-04,Delayed
+1848,412,Finishing,2024-11-07,2024-11-18,Completed
+1849,413,Foundation,2021-08-04,2021-08-24,On Track
+1850,413,Framing,2022-11-23,2022-11-14,On Track
+1851,414,Foundation,2022-11-24,2022-12-03,On Track
+1852,414,Framing,2023-01-19,2023-02-06,Delayed
+1853,414,Plumbing,2023-03-16,2023-03-27,On Track
+1854,414,Electrical,2023-05-11,2023-05-13,Completed
+1855,415,Foundation,2023-11-30,2023-11-27,Completed
+1856,415,Framing,2024-07-02,2024-07-08,Completed
+1857,415,Plumbing,2025-02-02,2025-02-13,Completed
+1858,416,Foundation,2021-10-02,2021-10-07,On Track
+1859,416,Framing,2022-02-05,2022-02-14,Delayed
+1860,416,Plumbing,2022-06-11,2022-06-11,Completed
+1861,416,Electrical,2022-10-15,2022-10-17,Completed
+1862,417,Foundation,2020-07-15,2020-08-03,On Track
+1863,417,Framing,2021-06-22,2021-06-15,Delayed
+1864,417,Plumbing,2022-05-30,2022-06-03,Completed
+1865,418,Foundation,2022-03-30,2022-04-04,Completed
+1866,418,Framing,2023-08-19,2023-09-08,Completed
+1867,419,Foundation,2024-02-17,2024-02-22,Delayed
+1868,419,Framing,2024-07-21,2024-08-08,On Track
+1869,419,Plumbing,2024-12-23,2024-12-24,Delayed
+1870,419,Electrical,2025-05-27,2025-06-12,Completed
+1871,419,Finishing,2025-10-29,2025-11-18,On Track
+1872,420,Foundation,2024-01-05,2024-01-16,On Track
+1873,420,Framing,2024-06-20,2024-07-02,Completed
+1874,420,Plumbing,2024-12-04,2024-12-01,Delayed
+1875,420,Electrical,2025-05-20,2025-05-19,Completed
+1876,420,Finishing,2025-11-03,2025-11-04,Completed
+1877,420,Foundation,2026-04-19,2026-04-12,On Track
+1878,420,Framing,2026-10-03,2026-10-20,On Track
+1879,421,Foundation,2024-07-23,2024-08-11,Delayed
+1880,421,Framing,2024-12-04,,On Track
+1881,421,Plumbing,2025-04-17,2025-04-16,On Track
+1882,421,Electrical,2025-08-29,2025-09-17,Delayed
+1883,421,Finishing,2026-01-10,2026-01-28,Completed
+1884,422,Foundation,2021-01-05,,On Track
+1885,422,Framing,2021-03-31,2021-04-16,Delayed
+1886,422,Plumbing,2021-06-24,2021-06-29,Delayed
+1887,422,Electrical,2021-09-17,2021-09-29,On Track
+1888,422,Finishing,2021-12-11,2021-12-27,Delayed
+1889,423,Foundation,2021-01-16,2021-01-08,Completed
+1890,423,Framing,2021-05-01,2021-05-14,Completed
+1891,423,Plumbing,2021-08-14,2021-08-14,On Track
+1892,423,Electrical,2021-11-27,,Completed
+1893,423,Finishing,2022-03-12,2022-03-07,Completed
+1894,423,Foundation,2022-06-25,,On Track
+1895,424,Foundation,2022-09-26,2022-09-25,On Track
+1896,424,Framing,2022-11-20,2022-11-13,Completed
+1897,424,Plumbing,2023-01-14,2023-01-26,Completed
+1898,424,Electrical,2023-03-10,2023-03-24,Completed
+1899,424,Finishing,2023-05-04,2023-05-15,Delayed
+1900,424,Foundation,2023-06-28,2023-07-02,Completed
+1901,424,Framing,2023-08-22,2023-08-16,Completed
+1902,425,Foundation,2020-08-28,2020-09-13,Delayed
+1903,425,Framing,2020-10-20,,Delayed
+1904,425,Plumbing,2020-12-12,2020-12-07,Delayed
+1905,425,Electrical,2021-02-03,2021-02-23,Completed
+1906,425,Finishing,2021-03-28,,On Track
+1907,425,Foundation,2021-05-20,2021-06-08,Completed
+1908,426,Foundation,2023-05-18,2023-05-15,Delayed
+1909,426,Framing,2023-08-06,2023-08-02,On Track
+1910,426,Plumbing,2023-10-25,2023-10-16,Delayed
+1911,426,Electrical,2024-01-13,2024-01-22,On Track
+1912,426,Finishing,2024-04-02,2024-04-22,Completed
+1913,426,Foundation,2024-06-21,,Completed
+1914,426,Framing,2024-09-09,2024-09-12,Delayed
+1915,427,Foundation,2021-10-12,2021-10-17,Completed
+1916,427,Framing,2021-12-26,2021-12-22,Delayed
+1917,427,Plumbing,2022-03-11,2022-03-10,Delayed
+1918,427,Electrical,2022-05-25,2022-05-19,On Track
+1919,427,Finishing,2022-08-08,2022-08-17,Delayed
+1920,427,Foundation,2022-10-22,2022-11-04,Delayed
+1921,427,Framing,2023-01-05,2022-12-31,On Track
+1922,428,Foundation,2023-07-30,2023-07-29,On Track
+1923,428,Framing,2025-03-01,2025-03-10,On Track
+1924,429,Foundation,2022-05-10,2022-05-18,Delayed
+1925,429,Framing,2023-01-07,,On Track
+1926,429,Plumbing,2023-09-06,2023-09-23,Completed
+1927,429,Electrical,2024-05-05,2024-05-07,Completed
+1928,430,Foundation,2024-07-08,2024-07-20,Completed
+1929,430,Framing,2024-11-19,,Completed
+1930,430,Plumbing,2025-04-02,,On Track
+1931,430,Electrical,2025-08-14,2025-08-19,Completed
+1932,430,Finishing,2025-12-26,2026-01-15,Completed
+1933,431,Foundation,2022-10-01,2022-10-14,On Track
+1934,431,Framing,2023-01-18,2023-01-16,Delayed
+1935,431,Plumbing,2023-05-07,2023-05-06,Completed
+1936,431,Electrical,2023-08-24,2023-08-25,Completed
+1937,431,Finishing,2023-12-11,2023-12-02,Delayed
+1938,431,Foundation,2024-03-29,2024-03-24,Delayed
+1939,431,Framing,2024-07-16,2024-08-03,On Track
+1940,432,Foundation,2025-02-04,2025-02-16,On Track
+1941,432,Framing,2025-11-20,2025-11-18,On Track
+1942,432,Plumbing,2026-09-05,2026-08-30,Delayed
+1943,432,Electrical,2027-06-21,2027-07-04,Delayed
+1944,433,Foundation,2023-05-27,2023-06-14,Completed
+1945,433,Framing,2023-09-22,2023-10-08,Delayed
+1946,433,Plumbing,2024-01-18,2024-01-24,On Track
+1947,433,Electrical,2024-05-15,2024-05-15,Delayed
+1948,434,Foundation,2023-07-13,2023-07-20,Completed
+1949,434,Framing,2024-04-21,2024-05-01,On Track
+1950,434,Plumbing,2025-01-29,2025-01-25,On Track
+1951,435,Foundation,2020-11-02,2020-10-24,On Track
+1952,435,Framing,2021-10-10,2021-10-22,On Track
+1953,435,Plumbing,2022-09-17,2022-10-05,On Track
+1954,436,Foundation,2021-02-10,2021-02-11,Completed
+1955,436,Framing,2021-07-22,2021-07-27,On Track
+1956,436,Plumbing,2021-12-31,2022-01-17,On Track
+1957,436,Electrical,2022-06-11,2022-06-04,On Track
+1958,436,Finishing,2022-11-20,2022-12-07,On Track
+1959,437,Foundation,2022-12-07,2022-12-13,Completed
+1960,437,Framing,2023-04-09,2023-04-27,On Track
+1961,437,Plumbing,2023-08-10,2023-08-18,On Track
+1962,437,Electrical,2023-12-11,2023-12-17,On Track
+1963,437,Finishing,2024-04-12,2024-04-15,On Track
+1964,437,Foundation,2024-08-13,2024-08-27,On Track
+1965,437,Framing,2024-12-14,2025-01-01,Delayed
+1966,438,Foundation,2023-06-13,2023-06-24,Delayed
+1967,438,Framing,2023-07-23,2023-07-31,On Track
+1968,438,Plumbing,2023-09-01,2023-09-17,On Track
+1969,438,Electrical,2023-10-11,2023-10-03,Completed
+1970,438,Finishing,2023-11-20,2023-12-01,Completed
+1971,438,Foundation,2023-12-30,2024-01-19,Completed
+1972,438,Framing,2024-02-08,2024-01-29,On Track
+1973,439,Foundation,2024-06-02,2024-06-11,Delayed
+1974,439,Framing,2024-10-18,2024-11-07,Completed
+1975,439,Plumbing,2025-03-05,2025-03-24,Completed
+1976,439,Electrical,2025-07-21,2025-07-15,On Track
+1977,439,Finishing,2025-12-06,2025-12-21,Delayed
+1978,439,Foundation,2026-04-23,,On Track
+1979,439,Framing,2026-09-08,2026-09-15,Delayed
+1980,440,Foundation,2022-09-26,2022-09-28,On Track
+1981,440,Framing,2024-04-16,2024-05-06,Delayed
+1982,441,Foundation,2024-09-28,2024-09-18,On Track
+1983,441,Framing,2025-04-08,2025-04-10,Delayed
+1984,442,Foundation,2021-08-02,2021-08-16,On Track
+1985,442,Framing,2021-11-30,2021-11-23,Delayed
+1986,442,Plumbing,2022-03-30,2022-04-12,Delayed
+1987,442,Electrical,2022-07-28,2022-08-15,On Track
+1988,442,Finishing,2022-11-25,2022-11-26,Delayed
+1989,442,Foundation,2023-03-25,2023-03-31,Delayed
+1990,442,Framing,2023-07-23,2023-08-10,Delayed
+1991,443,Foundation,2020-08-11,2020-08-20,Delayed
+1992,443,Framing,2021-01-14,2021-01-29,On Track
+1993,443,Plumbing,2021-06-19,2021-06-22,On Track
+1994,443,Electrical,2021-11-22,2021-11-13,Delayed
+1995,443,Finishing,2022-04-27,2022-05-08,Completed
+1996,443,Foundation,2022-09-30,2022-10-12,Delayed
+1997,444,Foundation,2024-04-24,2024-05-04,On Track
+1998,444,Framing,2024-10-21,2024-10-20,On Track
+1999,444,Plumbing,2025-04-19,2025-05-08,Delayed
+2000,444,Electrical,2025-10-16,2025-10-10,Completed
+2001,444,Finishing,2026-04-14,2026-05-02,On Track
+2002,444,Foundation,2026-10-11,2026-10-17,Completed
+2003,445,Foundation,2024-03-12,,On Track
+2004,445,Framing,2024-09-13,2024-09-19,Delayed
+2005,446,Foundation,2023-02-10,2023-02-03,Completed
+2006,446,Framing,2023-05-18,2023-05-26,Delayed
+2007,446,Plumbing,2023-08-23,2023-08-21,Completed
+2008,446,Electrical,2023-11-28,2023-11-18,Completed
+2009,446,Finishing,2024-03-04,2024-03-08,On Track
+2010,447,Foundation,2020-07-05,,Completed
+2011,447,Framing,2020-11-11,2020-11-10,Completed
+2012,447,Plumbing,2021-03-20,2021-03-24,Delayed
+2013,447,Electrical,2021-07-27,2021-08-05,Delayed
+2014,447,Finishing,2021-12-03,2021-12-23,On Track
+2015,448,Foundation,2021-05-19,,Completed
+2016,448,Framing,2021-12-24,2021-12-22,On Track
+2017,448,Plumbing,2022-07-31,2022-08-03,On Track
+2018,449,Foundation,2024-05-21,,Completed
+2019,449,Framing,2024-11-22,2024-11-27,Delayed
+2020,449,Plumbing,2025-05-26,2025-06-12,Completed
+2021,449,Electrical,2025-11-27,2025-12-06,Delayed
+2022,449,Finishing,2026-05-31,2026-06-09,Completed
+2023,450,Foundation,2023-08-14,2023-08-26,Completed
+2024,450,Framing,2024-04-03,2024-04-14,Delayed
+2025,450,Plumbing,2024-11-22,2024-11-14,On Track
+2026,450,Electrical,2025-07-13,2025-07-09,On Track
+2027,451,Foundation,2023-01-30,2023-01-26,On Track
+2028,451,Framing,2023-05-25,2023-05-30,Completed
+2029,451,Plumbing,2023-09-17,2023-09-14,Completed
+2030,451,Electrical,2024-01-10,2024-01-27,On Track
+2031,451,Finishing,2024-05-04,2024-04-26,Delayed
+2032,451,Foundation,2024-08-27,2024-08-21,On Track
+2033,451,Framing,2024-12-20,2024-12-13,On Track
+2034,452,Foundation,2025-01-04,2025-01-16,Delayed
+2035,452,Framing,2025-03-18,,Delayed
+2036,452,Plumbing,2025-05-30,2025-06-07,Delayed
+2037,452,Electrical,2025-08-11,2025-08-19,Delayed
+2038,452,Finishing,2025-10-23,2025-10-14,On Track
+2039,452,Foundation,2026-01-04,2026-01-14,Delayed
+2040,452,Framing,2026-03-18,2026-03-21,Completed
+2041,453,Foundation,2024-03-03,2024-03-12,Delayed
+2042,453,Framing,2024-06-22,2024-06-13,Delayed
+2043,453,Plumbing,2024-10-11,2024-10-17,Completed
+2044,453,Electrical,2025-01-30,2025-02-18,Delayed
+2045,453,Finishing,2025-05-21,2025-05-18,Completed
+2046,453,Foundation,2025-09-09,2025-08-30,Delayed
+2047,454,Foundation,2023-12-14,2023-12-06,Completed
+2048,454,Framing,2024-03-18,2024-03-21,On Track
+2049,454,Plumbing,2024-06-21,2024-06-26,Completed
+2050,454,Electrical,2024-09-24,2024-09-25,Delayed
+2051,454,Finishing,2024-12-28,2024-12-18,Completed
+2052,454,Foundation,2025-04-02,2025-03-29,Delayed
+2053,455,Foundation,2021-12-30,2022-01-05,Completed
+2054,455,Framing,2022-09-14,2022-09-14,Completed
+2055,455,Plumbing,2023-05-30,2023-06-10,Delayed
+2056,456,Foundation,2024-12-11,2024-12-23,Delayed
+2057,456,Framing,2025-02-27,2025-03-15,Completed
+2058,456,Plumbing,2025-05-16,2025-05-29,Delayed
+2059,456,Electrical,2025-08-02,2025-08-17,On Track
+2060,456,Finishing,2025-10-19,2025-10-28,Completed
+2061,456,Foundation,2026-01-05,,Delayed
+2062,456,Framing,2026-03-24,2026-03-18,On Track
+2063,457,Foundation,2020-10-11,2020-10-16,Delayed
+2064,457,Framing,2021-01-01,2021-01-21,Delayed
+2065,457,Plumbing,2021-03-24,2021-03-21,On Track
+2066,457,Electrical,2021-06-14,2021-06-04,Delayed
+2067,457,Finishing,2021-09-04,2021-09-05,On Track
+2068,457,Foundation,2021-11-25,2021-12-11,Completed
+2069,458,Foundation,2025-02-22,,Delayed
+2070,458,Framing,2026-09-04,2026-08-28,On Track
+2071,459,Foundation,2023-02-04,2023-02-01,Delayed
+2072,459,Framing,2023-08-16,2023-08-31,On Track
+2073,459,Plumbing,2024-02-25,2024-03-10,Delayed
+2074,459,Electrical,2024-09-05,2024-09-23,Completed
+2075,459,Finishing,2025-03-17,2025-04-03,Completed
+2076,459,Foundation,2025-09-26,2025-09-19,Delayed
+2077,460,Foundation,2024-09-12,2024-10-02,On Track
+2078,460,Framing,2025-05-08,2025-05-01,Completed
+2079,460,Plumbing,2026-01-01,2026-01-16,On Track
+2080,460,Electrical,2026-08-27,2026-09-12,Completed
+2081,460,Finishing,2027-04-22,2027-04-15,On Track
+2082,461,Foundation,2022-11-24,2022-12-13,Completed
+2083,461,Framing,2023-10-08,2023-10-07,Completed
+2084,461,Plumbing,2024-08-21,2024-08-26,On Track
+2085,462,Foundation,2021-05-29,2021-06-08,On Track
+2086,462,Framing,2022-04-11,2022-04-04,Delayed
+2087,462,Plumbing,2023-02-22,2023-02-25,On Track
+2088,463,Foundation,2022-06-26,2022-07-12,Delayed
+2089,463,Framing,2023-02-21,2023-02-20,On Track
+2090,463,Plumbing,2023-10-19,2023-10-17,Delayed
+2091,464,Foundation,2021-07-01,2021-07-11,On Track
+2092,464,Framing,2022-03-15,2022-03-29,Delayed
+2093,464,Plumbing,2022-11-27,2022-12-12,Delayed
+2094,464,Electrical,2023-08-11,2023-08-14,Delayed
+2095,465,Foundation,2020-09-02,2020-09-17,On Track
+2096,465,Framing,2020-10-30,2020-11-03,On Track
+2097,465,Plumbing,2020-12-27,2021-01-08,On Track
+2098,465,Electrical,2021-02-23,2021-02-15,Delayed
+2099,465,Finishing,2021-04-22,2021-05-06,On Track
+2100,465,Foundation,2021-06-19,2021-06-21,Completed
+2101,466,Foundation,2024-10-19,2024-10-13,On Track
+2102,466,Framing,2024-12-13,2024-12-23,Completed
+2103,466,Plumbing,2025-02-06,2025-02-24,Delayed
+2104,466,Electrical,2025-04-02,2025-04-05,Completed
+2105,466,Finishing,2025-05-27,2025-06-08,Delayed
+2106,466,Foundation,2025-07-21,2025-08-03,Delayed
+2107,466,Framing,2025-09-14,2025-09-04,Completed
+2108,467,Foundation,2025-02-18,2025-03-09,Delayed
+2109,467,Framing,2025-06-04,2025-06-08,Completed
+2110,467,Plumbing,2025-09-18,2025-09-27,Completed
+2111,467,Electrical,2026-01-02,2026-01-06,Completed
+2112,467,Finishing,2026-04-18,2026-04-20,Delayed
+2113,467,Foundation,2026-08-02,,Delayed
+2114,468,Foundation,2024-03-29,2024-04-11,On Track
+2115,468,Framing,2024-07-28,2024-08-03,Delayed
+2116,468,Plumbing,2024-11-26,,Completed
+2117,468,Electrical,2025-03-27,2025-03-26,Completed
+2118,468,Finishing,2025-07-26,,Completed
+2119,469,Foundation,2024-06-14,2024-06-12,Delayed
+2120,469,Framing,2024-11-05,2024-11-18,Completed
+2121,469,Plumbing,2025-03-29,2025-03-22,Delayed
+2122,469,Electrical,2025-08-20,2025-08-18,Delayed
+2123,469,Finishing,2026-01-11,,Completed
+2124,469,Foundation,2026-06-04,2026-06-24,Delayed
+2125,470,Foundation,2024-07-17,,Delayed
+2126,470,Framing,2025-01-02,2024-12-30,Completed
+2127,470,Plumbing,2025-06-20,2025-06-28,Completed
+2128,470,Electrical,2025-12-06,2025-12-17,Completed
+2129,470,Finishing,2026-05-24,2026-05-21,Delayed
+2130,470,Foundation,2026-11-09,2026-11-20,Completed
+2131,471,Foundation,2022-11-25,2022-12-06,Delayed
+2132,471,Framing,2023-03-07,2023-03-13,On Track
+2133,471,Plumbing,2023-06-17,2023-06-17,On Track
+2134,471,Electrical,2023-09-27,2023-10-13,Delayed
+2135,471,Finishing,2024-01-07,2023-12-31,Delayed
+2136,471,Foundation,2024-04-18,2024-05-04,On Track
+2137,472,Foundation,2022-03-23,2022-03-26,Delayed
+2138,472,Framing,2023-10-12,2023-10-08,Delayed
+2139,473,Foundation,2024-09-07,2024-09-13,Completed
+2140,473,Framing,2024-12-01,2024-12-07,Delayed
+2141,473,Plumbing,2025-02-24,2025-03-04,Delayed
+2142,473,Electrical,2025-05-20,2025-05-24,Delayed
+2143,473,Finishing,2025-08-13,2025-08-26,On Track
+2144,473,Foundation,2025-11-06,2025-10-31,Delayed
+2145,473,Framing,2026-01-30,2026-02-11,Completed
+2146,474,Foundation,2022-06-05,2022-06-22,Completed
+2147,474,Framing,2022-12-21,2022-12-17,On Track
+2148,474,Plumbing,2023-07-08,2023-07-21,Completed
+2149,474,Electrical,2024-01-23,2024-01-24,On Track
+2150,474,Finishing,2024-08-09,2024-08-18,On Track
+2151,474,Foundation,2025-02-24,2025-02-17,Delayed
+2152,475,Foundation,2020-10-12,2020-10-18,Delayed
+2153,475,Framing,2021-02-20,2021-02-19,Delayed
+2154,476,Foundation,2020-12-10,,On Track
+2155,476,Framing,2021-03-10,2021-03-04,Delayed
+2156,476,Plumbing,2021-06-08,2021-05-30,Delayed
+2157,476,Electrical,2021-09-06,2021-09-24,On Track
+2158,477,Foundation,2022-03-16,,Completed
+2159,477,Framing,2022-07-26,,On Track
+2160,477,Plumbing,2022-12-05,2022-12-08,Delayed
+2161,477,Electrical,2023-04-16,2023-04-24,Delayed
+2162,477,Finishing,2023-08-26,2023-09-10,Completed
+2163,477,Foundation,2024-01-05,2024-01-21,On Track
+2164,477,Framing,2024-05-16,2024-05-22,Delayed
+2165,478,Foundation,2022-04-20,2022-04-24,Completed
+2166,478,Framing,2022-07-22,,Completed
+2167,478,Plumbing,2022-10-23,2022-11-03,Delayed
+2168,478,Electrical,2023-01-24,2023-01-21,Delayed
+2169,478,Finishing,2023-04-27,,Completed
+2170,478,Foundation,2023-07-29,2023-08-16,Delayed
+2171,478,Framing,2023-10-30,,On Track
+2172,479,Foundation,2021-03-12,2021-03-02,Completed
+2173,479,Framing,2021-08-05,2021-08-04,On Track
+2174,479,Plumbing,2021-12-29,2022-01-08,On Track
+2175,479,Electrical,2022-05-24,2022-06-13,Completed
+2176,479,Finishing,2022-10-17,,Completed
+2177,479,Foundation,2023-03-12,2023-03-18,Delayed
+2178,479,Framing,2023-08-05,2023-08-11,On Track
+2179,480,Foundation,2021-05-27,2021-06-15,On Track
+2180,480,Framing,2021-08-01,2021-07-30,On Track
+2181,480,Plumbing,2021-10-06,2021-10-22,Completed
+2182,480,Electrical,2021-12-11,,Completed
+2183,480,Finishing,2022-02-15,2022-02-24,Completed
+2184,480,Foundation,2022-04-22,2022-04-13,On Track
+2185,480,Framing,2022-06-27,2022-06-27,Delayed
+2186,481,Foundation,2023-09-29,2023-10-16,Delayed
+2187,481,Framing,2024-07-29,,On Track
+2188,482,Foundation,2022-06-23,2022-06-18,On Track
+2189,482,Framing,2022-08-03,2022-08-01,On Track
+2190,482,Plumbing,2022-09-13,2022-09-12,Completed
+2191,482,Electrical,2022-10-24,,Delayed
+2192,482,Finishing,2022-12-04,,On Track
+2193,482,Foundation,2023-01-14,2023-01-13,Delayed
+2194,483,Foundation,2021-06-07,2021-06-10,Delayed
+2195,483,Framing,2022-03-23,2022-03-25,On Track
+2196,483,Plumbing,2023-01-06,2022-12-28,Completed
+2197,484,Foundation,2020-10-12,2020-10-09,Completed
+2198,484,Framing,2020-11-18,2020-11-20,Delayed
+2199,484,Plumbing,2020-12-25,2020-12-16,Completed
+2200,484,Electrical,2021-01-31,,On Track
+2201,484,Finishing,2021-03-09,2021-03-12,On Track
+2202,484,Foundation,2021-04-15,2021-04-13,Completed
+2203,485,Foundation,2023-02-14,2023-02-07,Completed
+2204,485,Framing,2023-06-30,2023-07-10,Delayed
+2205,485,Plumbing,2023-11-13,2023-11-21,On Track
+2206,485,Electrical,2024-03-28,2024-04-14,On Track
+2207,485,Finishing,2024-08-11,2024-08-26,Delayed
+2208,485,Foundation,2024-12-25,2025-01-01,On Track
+2209,485,Framing,2025-05-10,2025-05-17,Completed
+2210,486,Foundation,2021-04-06,,Delayed
+2211,486,Framing,2021-12-01,2021-12-21,Delayed
+2212,486,Plumbing,2022-07-28,2022-08-07,On Track
+2213,486,Electrical,2023-03-24,2023-03-15,Delayed
+2214,486,Finishing,2023-11-18,2023-11-16,Completed
+2215,487,Foundation,2024-07-19,2024-07-20,On Track
+2216,487,Framing,2024-10-24,2024-11-01,Delayed
+2217,487,Plumbing,2025-01-29,2025-01-20,Completed
+2218,487,Electrical,2025-05-06,,On Track
+2219,487,Finishing,2025-08-11,2025-08-13,On Track
+2220,488,Foundation,2022-09-01,2022-09-08,Delayed
+2221,488,Framing,2022-11-05,2022-11-01,Delayed
+2222,488,Plumbing,2023-01-09,2023-01-27,Delayed
+2223,488,Electrical,2023-03-15,2023-03-25,Completed
+2224,488,Finishing,2023-05-19,2023-05-23,Completed
+2225,488,Foundation,2023-07-23,2023-07-23,Delayed
+2226,488,Framing,2023-09-26,2023-10-16,On Track
+2227,489,Foundation,2024-08-11,2024-08-05,On Track
+2228,489,Framing,2024-11-17,2024-11-26,On Track
+2229,489,Plumbing,2025-02-23,2025-03-06,Completed
+2230,489,Electrical,2025-06-01,2025-06-19,Delayed
+2231,489,Finishing,2025-09-07,2025-09-21,On Track
+2232,489,Foundation,2025-12-14,2025-12-29,Completed
+2233,489,Framing,2026-03-22,2026-03-14,Completed
+2234,490,Foundation,2022-12-07,2022-12-18,Delayed
+2235,490,Framing,2023-03-18,2023-04-03,Delayed
+2236,490,Plumbing,2023-06-27,2023-06-22,Completed
+2237,490,Electrical,2023-10-06,2023-09-26,Delayed
+2238,490,Finishing,2024-01-15,2024-02-03,On Track
+2239,491,Foundation,2023-05-22,,Delayed
+2240,491,Framing,2023-11-26,2023-12-07,Delayed
+2241,491,Plumbing,2024-06-01,,Completed
+2242,492,Foundation,2022-04-08,2022-04-07,On Track
+2243,492,Framing,2022-06-16,2022-06-13,Delayed
+2244,492,Plumbing,2022-08-24,2022-08-15,Completed
+2245,492,Electrical,2022-11-01,2022-11-13,On Track
+2246,492,Finishing,2023-01-09,2023-01-05,Completed
+2247,492,Foundation,2023-03-19,2023-03-21,Delayed
+2248,492,Framing,2023-05-27,2023-06-04,On Track
+2249,493,Foundation,2022-10-02,2022-09-28,Completed
+2250,493,Framing,2023-02-04,2023-02-15,Completed
+2251,493,Plumbing,2023-06-09,,On Track
+2252,493,Electrical,2023-10-12,,Delayed
+2253,493,Finishing,2024-02-14,2024-03-04,On Track
+2254,493,Foundation,2024-06-18,2024-07-06,Delayed
+2255,494,Foundation,2022-10-30,2022-11-16,Completed
+2256,494,Framing,2023-02-12,2023-02-23,Delayed
+2257,494,Plumbing,2023-05-28,2023-06-08,Delayed
+2258,495,Foundation,2021-01-10,2021-01-30,Completed
+2259,495,Framing,2022-03-07,2022-03-27,Delayed
+2260,496,Foundation,2025-01-18,2025-02-04,Delayed
+2261,496,Framing,2025-06-12,2025-06-05,Delayed
+2262,496,Plumbing,2025-11-04,2025-11-09,On Track
+2263,496,Electrical,2026-03-29,2026-04-16,On Track
+2264,496,Finishing,2026-08-21,2026-08-19,Completed
+2265,497,Foundation,2023-03-10,,On Track
+2266,497,Framing,2023-07-01,,Completed
+2267,497,Plumbing,2023-10-22,,Completed
+2268,497,Electrical,2024-02-12,2024-02-09,Delayed
+2269,497,Finishing,2024-06-04,,On Track
+2270,498,Foundation,2024-12-11,2024-12-06,On Track
+2271,498,Framing,2025-11-10,2025-11-20,On Track
+2272,498,Plumbing,2026-10-10,2026-10-15,On Track
+2273,499,Foundation,2021-06-23,2021-07-08,Delayed
+2274,499,Framing,2021-12-18,2022-01-03,On Track
+2275,499,Plumbing,2022-06-14,2022-06-19,Delayed
+2276,499,Electrical,2022-12-09,,Delayed
+2277,499,Finishing,2023-06-05,2023-06-11,On Track
+2278,499,Foundation,2023-11-30,2023-12-14,Delayed
+2279,500,Foundation,2022-02-20,2022-03-02,On Track
+2280,500,Framing,2023-09-12,2023-09-04,On Track
